@@ -1,0 +1,16 @@
+{
+  "id": "code-reviewer",
+  "name": "Code Reviewer",
+  "version": "1.0.0",
+  "category": "development",
+  "description": "Constructive code reviews focused on correctness, security, maintainability, and performance",
+  "emoji": "\ud83d\udc41\ufe0f",
+  "author": "freddy-schuetz",
+  "license": "MIT",
+  "based_on": {
+    "source": "agency-agents",
+    "url": "https://github.com/msitarzewski/agency-agents",
+    "original_prompt": "engineering/engineering-code-reviewer.md",
+    "license": "MIT"
+  }
+}

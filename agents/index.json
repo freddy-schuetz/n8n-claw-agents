@@ -28,6 +28,24 @@
       "description": "Datenauswertung, Muster erkennen, strukturierte Reports, Kennzahlen interpretieren",
       "emoji": "\ud83d\udcca",
       "author": "freddy-schuetz"
+    },
+    {
+      "id": "seo-specialist",
+      "name": "SEO Specialist",
+      "version": "1.0.0",
+      "category": "marketing",
+      "description": "Technical SEO, content optimization, link authority building, and organic search growth",
+      "emoji": "\ud83d\udd0d",
+      "author": "freddy-schuetz"
+    },
+    {
+      "id": "code-reviewer",
+      "name": "Code Reviewer",
+      "version": "1.0.0",
+      "category": "development",
+      "description": "Constructive code reviews focused on correctness, security, maintainability, and performance",
+      "emoji": "\ud83d\udc41\ufe0f",
+      "author": "freddy-schuetz"
     }
   ]
 }

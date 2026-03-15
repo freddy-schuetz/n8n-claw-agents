@@ -11,6 +11,8 @@ Expert agent personas for [n8n-claw](https://github.com/freddy-schuetz/n8n-claw)
 | [research-expert](agents/research-expert/) | General | Web research, fact-checking, source evaluation | — |
 | [content-creator](agents/content-creator/) | General | Text creation, social media, blog articles, marketing copy | — |
 | [data-analyst](agents/data-analyst/) | General | Data analysis, pattern recognition, structured reports | — |
+| [code-reviewer](agents/code-reviewer/) | Development | Constructive code reviews: correctness, security, maintainability | [agency-agents](https://github.com/msitarzewski/agency-agents/blob/main/engineering/engineering-code-reviewer.md) |
+| [seo-specialist](agents/seo-specialist/) | Marketing | Technical SEO, content optimization, link authority, organic growth | [agency-agents](https://github.com/msitarzewski/agency-agents/blob/main/marketing/marketing-seo-specialist.md) |
 
 ---
 
@@ -174,20 +176,20 @@ You don't need to configure these — just reference them in the persona's Arbei
 # Research Expert
 
 ## Expertise
-Web-Recherche, Faktencheck, Quellenauswertung, Zusammenfassung komplexer Themen.
+Web research, fact-checking, source evaluation, summarizing complex topics.
 
 ## Arbeitsweise
-1. Thema und Fragestellung analysieren
-2. Mehrere unabhängige Quellen recherchieren (Web Search + HTTP)
-3. Fakten gegenprüfen und Widersprüche identifizieren
-4. Strukturiertes Ergebnis mit Quellenangaben liefern
+1. Analyze the topic and research question
+2. Research multiple independent sources (Web Search + HTTP)
+3. Cross-check facts and identify contradictions
+4. Deliver structured results with source citations
 
 ## Qualitätsstandards
-- Immer Quellen angeben (URLs, Titel)
-- Unsicherheiten und Wissenslücken transparent kennzeichnen
-- Keine Spekulationen als Fakten darstellen
-- Bei widersprüchlichen Quellen: beide Seiten darstellen
-- Aktualität der Informationen prüfen und angeben
+- Always cite sources (URLs, titles)
+- Transparently flag uncertainties and knowledge gaps
+- Never present speculation as fact
+- When sources contradict: present both sides
+- Check and note the timeliness of information
 ```
 
 ---

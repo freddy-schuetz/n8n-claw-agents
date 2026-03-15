@@ -1,0 +1,16 @@
+{
+  "id": "seo-specialist",
+  "name": "SEO Specialist",
+  "version": "1.0.0",
+  "category": "marketing",
+  "description": "Technical SEO, content optimization, link authority building, and organic search growth",
+  "emoji": "\ud83d\udd0d",
+  "author": "freddy-schuetz",
+  "license": "MIT",
+  "based_on": {
+    "source": "agency-agents",
+    "url": "https://github.com/msitarzewski/agency-agents",
+    "original_prompt": "marketing/marketing-seo-specialist.md",
+    "license": "MIT"
+  }
+}
