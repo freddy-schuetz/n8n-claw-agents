@@ -1,0 +1,10 @@
+{
+  "id": "data-analyst",
+  "name": "Data Analyst",
+  "version": "1.0.0",
+  "category": "general",
+  "description": "Data analysis, pattern recognition, structured reports, KPI interpretation",
+  "emoji": "\ud83d\udcca",
+  "author": "freddy-schuetz",
+  "license": "MIT"
+}

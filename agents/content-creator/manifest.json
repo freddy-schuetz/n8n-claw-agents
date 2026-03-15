@@ -1,0 +1,10 @@
+{
+  "id": "content-creator",
+  "name": "Content Creator",
+  "version": "1.0.0",
+  "category": "general",
+  "description": "Text creation, social media content, blog articles, marketing copy",
+  "emoji": "\u270d\ufe0f",
+  "author": "freddy-schuetz",
+  "license": "MIT"
+}

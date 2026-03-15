@@ -1,0 +1,33 @@
+{
+  "format": "n8n-claw-agents-catalog",
+  "format_version": 1,
+  "agents": [
+    {
+      "id": "research-expert",
+      "name": "Research Expert",
+      "version": "1.0.0",
+      "category": "general",
+      "description": "Web-Recherche, Faktencheck, Quellenauswertung, Zusammenfassung komplexer Themen",
+      "emoji": "\ud83d\udd0d",
+      "author": "freddy-schuetz"
+    },
+    {
+      "id": "content-creator",
+      "name": "Content Creator",
+      "version": "1.0.0",
+      "category": "general",
+      "description": "Texterstellung, Social Media Content, Blog-Artikel, Marketing-Texte, kreatives Schreiben",
+      "emoji": "\u270d\ufe0f",
+      "author": "freddy-schuetz"
+    },
+    {
+      "id": "data-analyst",
+      "name": "Data Analyst",
+      "version": "1.0.0",
+      "category": "general",
+      "description": "Datenauswertung, Muster erkennen, strukturierte Reports, Kennzahlen interpretieren",
+      "emoji": "\ud83d\udcca",
+      "author": "freddy-schuetz"
+    }
+  ]
+}
