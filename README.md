@@ -6,13 +6,25 @@ Expert agent personas for [n8n-claw](https://github.com/freddy-schuetz/n8n-claw)
 
 ## Available Agents
 
-| Agent | Category | Description | Based on |
-|-------|----------|-------------|----------|
-| [research-expert](agents/research-expert/) | General | Web research, fact-checking, source evaluation | — |
-| [content-creator](agents/content-creator/) | General | Text creation, social media, blog articles, marketing copy | — |
-| [data-analyst](agents/data-analyst/) | General | Data analysis, pattern recognition, structured reports | — |
-| [code-reviewer](agents/code-reviewer/) | Development | Constructive code reviews: correctness, security, maintainability | [agency-agents](https://github.com/msitarzewski/agency-agents/blob/main/engineering/engineering-code-reviewer.md) |
-| [seo-specialist](agents/seo-specialist/) | Marketing | Technical SEO, content optimization, link authority, organic growth | [agency-agents](https://github.com/msitarzewski/agency-agents/blob/main/marketing/marketing-seo-specialist.md) |
+### Development
+
+| Agent | Description | Based on | Author |
+|-------|-------------|----------|--------|
+| [Code Reviewer](agents/code-reviewer/) | Constructive code reviews: correctness, security, maintainability | [agency-agents](https://github.com/msitarzewski/agency-agents/blob/main/engineering/engineering-code-reviewer.md) | [@freddy-schuetz](https://github.com/freddy-schuetz) |
+
+### General
+
+| Agent | Description | Based on | Author |
+|-------|-------------|----------|--------|
+| [Content Creator](agents/content-creator/) | Text creation, social media, blog articles, marketing copy | — | [@freddy-schuetz](https://github.com/freddy-schuetz) |
+| [Data Analyst](agents/data-analyst/) | Data analysis, pattern recognition, structured reports | — | [@freddy-schuetz](https://github.com/freddy-schuetz) |
+| [Research Expert](agents/research-expert/) | Web research, fact-checking, source evaluation | — | [@freddy-schuetz](https://github.com/freddy-schuetz) |
+
+### Marketing
+
+| Agent | Description | Based on | Author |
+|-------|-------------|----------|--------|
+| [SEO Specialist](agents/seo-specialist/) | Technical SEO, content optimization, link authority, organic growth | [agency-agents](https://github.com/msitarzewski/agency-agents/blob/main/marketing/marketing-seo-specialist.md) | [@freddy-schuetz](https://github.com/freddy-schuetz) |
 
 ---
 
