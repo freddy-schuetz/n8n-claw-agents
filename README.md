@@ -6,25 +6,30 @@ Expert agent personas for [n8n-claw](https://github.com/freddy-schuetz/n8n-claw)
 
 ## Available Agents
 
+### Analytics
+
+| Agent | Description | Based on | Author |
+|-------|-------------|----------|--------|
+| [Data Analyst](agents/data-analyst/) | Data analysis, pattern recognition, structured reports | — | [@freddy-schuetz](https://github.com/freddy-schuetz) |
+
 ### Development
 
 | Agent | Description | Based on | Author |
 |-------|-------------|----------|--------|
 | [Code Reviewer](agents/code-reviewer/) | Constructive code reviews: correctness, security, maintainability | [agency-agents](https://github.com/msitarzewski/agency-agents/blob/main/engineering/engineering-code-reviewer.md) | [@freddy-schuetz](https://github.com/freddy-schuetz) |
 
-### General
-
-| Agent | Description | Based on | Author |
-|-------|-------------|----------|--------|
-| [Content Creator](agents/content-creator/) | Text creation, social media, blog articles, marketing copy | — | [@freddy-schuetz](https://github.com/freddy-schuetz) |
-| [Data Analyst](agents/data-analyst/) | Data analysis, pattern recognition, structured reports | — | [@freddy-schuetz](https://github.com/freddy-schuetz) |
-| [Research Expert](agents/research-expert/) | Web research, fact-checking, source evaluation | — | [@freddy-schuetz](https://github.com/freddy-schuetz) |
-
 ### Marketing
 
 | Agent | Description | Based on | Author |
 |-------|-------------|----------|--------|
+| [Content Creator](agents/content-creator/) | Text creation, social media, blog articles, marketing copy | — | [@freddy-schuetz](https://github.com/freddy-schuetz) |
 | [SEO Specialist](agents/seo-specialist/) | Technical SEO, content optimization, link authority, organic growth | [agency-agents](https://github.com/msitarzewski/agency-agents/blob/main/marketing/marketing-seo-specialist.md) | [@freddy-schuetz](https://github.com/freddy-schuetz) |
+
+### Research
+
+| Agent | Description | Based on | Author |
+|-------|-------------|----------|--------|
+| [Research Expert](agents/research-expert/) | Web research, fact-checking, source evaluation | — | [@freddy-schuetz](https://github.com/freddy-schuetz) |
 
 ---
 
@@ -111,7 +116,7 @@ agents/
 | `license` | yes | License identifier (e.g. `MIT`) |
 | `based_on` | no | Attribution object (see [Attribution](#attribution)) |
 
-**Categories:** `general`, `marketing`, `development`, `analytics`, `creative`
+**Categories:** `analytics`, `creative`, `development`, `marketing`, `research`
 
 ### persona.json
 

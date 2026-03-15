@@ -6,7 +6,7 @@
       "id": "research-expert",
       "name": "Research Expert",
       "version": "1.0.0",
-      "category": "general",
+      "category": "research",
       "description": "Web research, fact-checking, source evaluation, summarizing complex topics",
       "emoji": "🔍",
       "author": "freddy-schuetz"
@@ -15,7 +15,7 @@
       "id": "content-creator",
       "name": "Content Creator",
       "version": "1.0.0",
-      "category": "general",
+      "category": "marketing",
       "description": "Copywriting, social media content, blog articles, marketing copy, creative writing",
       "emoji": "✍️",
       "author": "freddy-schuetz"
@@ -24,7 +24,7 @@
       "id": "data-analyst",
       "name": "Data Analyst",
       "version": "1.0.0",
-      "category": "general",
+      "category": "analytics",
       "description": "Data analysis, pattern recognition, structured reports, KPI interpretation",
       "emoji": "📊",
       "author": "freddy-schuetz"
