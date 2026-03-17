@@ -1,0 +1,10 @@
+{
+  "id": "translator",
+  "name": "Translator",
+  "version": "1.0.0",
+  "category": "general",
+  "description": "Context-aware translations between German, English, and French with tone and register adaptation",
+  "emoji": "🌐",
+  "author": "freddy-schuetz",
+  "license": "MIT"
+}

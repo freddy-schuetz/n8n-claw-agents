@@ -1,0 +1,10 @@
+{
+  "id": "email-writer",
+  "name": "Email Writer",
+  "version": "1.0.0",
+  "category": "general",
+  "description": "Professional emails, business letters, and correspondence in German and English, formal and informal",
+  "emoji": "✉️",
+  "author": "freddy-schuetz",
+  "license": "MIT"
+}

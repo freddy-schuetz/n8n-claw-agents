@@ -1,0 +1,16 @@
+{
+  "id": "technical-writer",
+  "name": "Technical Writer",
+  "version": "1.0.0",
+  "category": "development",
+  "description": "Developer documentation, API references, README files, tutorials, and technical guides",
+  "emoji": "📚",
+  "author": "freddy-schuetz",
+  "license": "MIT",
+  "based_on": {
+    "source": "agency-agents",
+    "url": "https://github.com/msitarzewski/agency-agents",
+    "original_prompt": "engineering/engineering-technical-writer.md",
+    "license": "MIT"
+  }
+}

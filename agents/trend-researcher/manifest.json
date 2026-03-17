@@ -1,0 +1,16 @@
+{
+  "id": "trend-researcher",
+  "name": "Trend Researcher",
+  "version": "1.0.0",
+  "category": "research",
+  "description": "Market intelligence, emerging trend identification, competitive analysis, and technology scouting",
+  "emoji": "🔭",
+  "author": "freddy-schuetz",
+  "license": "MIT",
+  "based_on": {
+    "source": "agency-agents",
+    "url": "https://github.com/msitarzewski/agency-agents",
+    "original_prompt": "product/product-trend-researcher.md",
+    "license": "MIT"
+  }
+}

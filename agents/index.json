@@ -3,12 +3,21 @@
   "format_version": 1,
   "agents": [
     {
-      "id": "research-expert",
-      "name": "Research Expert",
+      "id": "brainstorm-coach",
+      "name": "Brainstorm Coach",
       "version": "1.0.0",
-      "category": "research",
-      "description": "Web research, fact-checking, source evaluation, summarizing complex topics",
-      "emoji": "🔍",
+      "category": "creative",
+      "description": "Structured brainstorming, creative ideation, perspective shifts, and innovative problem-solving",
+      "emoji": "💡",
+      "author": "freddy-schuetz"
+    },
+    {
+      "id": "code-reviewer",
+      "name": "Code Reviewer",
+      "version": "1.0.0",
+      "category": "development",
+      "description": "Constructive code reviews focused on correctness, security, maintainability, and performance",
+      "emoji": "👁️",
       "author": "freddy-schuetz"
     },
     {
@@ -30,6 +39,60 @@
       "author": "freddy-schuetz"
     },
     {
+      "id": "email-writer",
+      "name": "Email Writer",
+      "version": "1.0.0",
+      "category": "general",
+      "description": "Professional emails, business letters, and correspondence in German and English",
+      "emoji": "✉️",
+      "author": "freddy-schuetz"
+    },
+    {
+      "id": "executive-summarizer",
+      "name": "Executive Summarizer",
+      "version": "1.0.0",
+      "category": "general",
+      "description": "Condensing long texts, reports, and meetings into concise executive briefings",
+      "emoji": "📝",
+      "author": "freddy-schuetz"
+    },
+    {
+      "id": "legal-advisor",
+      "name": "Legal Advisor",
+      "version": "1.0.0",
+      "category": "general",
+      "description": "GDPR/DSGVO compliance, privacy policies, terms of service, and EU regulatory guidance",
+      "emoji": "⚖️",
+      "author": "freddy-schuetz"
+    },
+    {
+      "id": "linkedin-creator",
+      "name": "LinkedIn Creator",
+      "version": "1.0.0",
+      "category": "marketing",
+      "description": "LinkedIn content strategy, thought leadership posts, personal branding, and professional engagement",
+      "emoji": "💼",
+      "author": "freddy-schuetz"
+    },
+    {
+      "id": "product-manager",
+      "name": "Product Manager",
+      "version": "1.0.0",
+      "category": "general",
+      "description": "Feature prioritization, roadmap planning, user stories, sprint planning, and product strategy",
+      "emoji": "📋",
+      "author": "freddy-schuetz"
+    },
+    {
+      "id": "research-expert",
+      "name": "Research Expert",
+      "version": "1.0.0",
+      "category": "research",
+      "description": "Web research, fact-checking, source evaluation, summarizing complex topics",
+      "emoji": "🔍",
+      "author": "freddy-schuetz"
+    },
+    {
       "id": "seo-specialist",
       "name": "SEO Specialist",
       "version": "1.0.0",
@@ -39,12 +102,48 @@
       "author": "freddy-schuetz"
     },
     {
-      "id": "code-reviewer",
-      "name": "Code Reviewer",
+      "id": "software-architect",
+      "name": "Software Architect",
       "version": "1.0.0",
       "category": "development",
-      "description": "Constructive code reviews focused on correctness, security, maintainability, and performance",
-      "emoji": "👁️",
+      "description": "System design, architectural patterns, trade-off analysis, and technical decision records",
+      "emoji": "🏛️",
+      "author": "freddy-schuetz"
+    },
+    {
+      "id": "technical-writer",
+      "name": "Technical Writer",
+      "version": "1.0.0",
+      "category": "development",
+      "description": "Developer documentation, API references, README files, tutorials, and technical guides",
+      "emoji": "📚",
+      "author": "freddy-schuetz"
+    },
+    {
+      "id": "translator",
+      "name": "Translator",
+      "version": "1.0.0",
+      "category": "general",
+      "description": "Context-aware translations between German, English, and French with tone adaptation",
+      "emoji": "🌐",
+      "author": "freddy-schuetz"
+    },
+    {
+      "id": "trend-researcher",
+      "name": "Trend Researcher",
+      "version": "1.0.0",
+      "category": "research",
+      "description": "Market intelligence, emerging trend identification, competitive analysis, and technology scouting",
+      "emoji": "🔭",
+      "author": "freddy-schuetz"
+    },
+    {
+      "id": "workflow-optimizer",
+      "name": "Workflow Optimizer",
+      "version": "1.0.0",
+      "category": "analytics",
+      "description": "Process analysis, bottleneck identification, automation opportunities, and efficiency improvements",
+      "emoji": "⚡",
       "author": "freddy-schuetz"
     }
   ]

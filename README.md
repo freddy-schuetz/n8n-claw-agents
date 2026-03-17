@@ -11,18 +11,38 @@ Expert agent personas for [n8n-claw](https://github.com/freddy-schuetz/n8n-claw)
 | Agent | Description | Based on | Author |
 |-------|-------------|----------|--------|
 | [Data Analyst](agents/data-analyst/) | Data analysis, pattern recognition, structured reports | — | [@freddy-schuetz](https://github.com/freddy-schuetz) |
+| [Workflow Optimizer](agents/workflow-optimizer/) | Process analysis, bottleneck identification, automation opportunities | [agency-agents](https://github.com/msitarzewski/agency-agents/blob/main/testing/testing-workflow-optimizer.md) | [@freddy-schuetz](https://github.com/freddy-schuetz) |
+
+### Creative
+
+| Agent | Description | Based on | Author |
+|-------|-------------|----------|--------|
+| [Brainstorm Coach](agents/brainstorm-coach/) | Structured brainstorming, creative ideation, perspective shifts | — | [@freddy-schuetz](https://github.com/freddy-schuetz) |
 
 ### Development
 
 | Agent | Description | Based on | Author |
 |-------|-------------|----------|--------|
 | [Code Reviewer](agents/code-reviewer/) | Constructive code reviews: correctness, security, maintainability | [agency-agents](https://github.com/msitarzewski/agency-agents/blob/main/engineering/engineering-code-reviewer.md) | [@freddy-schuetz](https://github.com/freddy-schuetz) |
+| [Software Architect](agents/software-architect/) | System design, trade-off analysis, architectural decision records | [agency-agents](https://github.com/msitarzewski/agency-agents/blob/main/engineering/engineering-software-architect.md) | [@freddy-schuetz](https://github.com/freddy-schuetz) |
+| [Technical Writer](agents/technical-writer/) | Developer docs, API references, READMEs, tutorials | [agency-agents](https://github.com/msitarzewski/agency-agents/blob/main/engineering/engineering-technical-writer.md) | [@freddy-schuetz](https://github.com/freddy-schuetz) |
+
+### General
+
+| Agent | Description | Based on | Author |
+|-------|-------------|----------|--------|
+| [Email Writer](agents/email-writer/) | Professional emails and business letters in German and English | — | [@freddy-schuetz](https://github.com/freddy-schuetz) |
+| [Executive Summarizer](agents/executive-summarizer/) | Condensing long texts and reports into concise briefings | [agency-agents](https://github.com/msitarzewski/agency-agents/blob/main/support/support-executive-summary-generator.md) | [@freddy-schuetz](https://github.com/freddy-schuetz) |
+| [Legal Advisor](agents/legal-advisor/) | GDPR/DSGVO compliance, privacy policies, EU regulatory guidance | [agency-agents](https://github.com/msitarzewski/agency-agents/blob/main/support/support-legal-compliance-checker.md) | [@freddy-schuetz](https://github.com/freddy-schuetz) |
+| [Product Manager](agents/product-manager/) | Feature prioritization, roadmaps, user stories, sprint planning | [agency-agents](https://github.com/msitarzewski/agency-agents/blob/main/product/product-manager.md) | [@freddy-schuetz](https://github.com/freddy-schuetz) |
+| [Translator](agents/translator/) | Context-aware translations between German, English, and French | — | [@freddy-schuetz](https://github.com/freddy-schuetz) |
 
 ### Marketing
 
 | Agent | Description | Based on | Author |
 |-------|-------------|----------|--------|
 | [Content Creator](agents/content-creator/) | Text creation, social media, blog articles, marketing copy | — | [@freddy-schuetz](https://github.com/freddy-schuetz) |
+| [LinkedIn Creator](agents/linkedin-creator/) | LinkedIn content strategy, thought leadership, personal branding | [agency-agents](https://github.com/msitarzewski/agency-agents/blob/main/marketing/marketing-linkedin-content-creator.md) | [@freddy-schuetz](https://github.com/freddy-schuetz) |
 | [SEO Specialist](agents/seo-specialist/) | Technical SEO, content optimization, link authority, organic growth | [agency-agents](https://github.com/msitarzewski/agency-agents/blob/main/marketing/marketing-seo-specialist.md) | [@freddy-schuetz](https://github.com/freddy-schuetz) |
 
 ### Research
@@ -30,6 +50,7 @@ Expert agent personas for [n8n-claw](https://github.com/freddy-schuetz/n8n-claw)
 | Agent | Description | Based on | Author |
 |-------|-------------|----------|--------|
 | [Research Expert](agents/research-expert/) | Web research, fact-checking, source evaluation | — | [@freddy-schuetz](https://github.com/freddy-schuetz) |
+| [Trend Researcher](agents/trend-researcher/) | Market intelligence, emerging trends, competitive analysis | [agency-agents](https://github.com/msitarzewski/agency-agents/blob/main/product/product-trend-researcher.md) | [@freddy-schuetz](https://github.com/freddy-schuetz) |
 
 ---
 
@@ -116,7 +137,7 @@ agents/
 | `license` | yes | License identifier (e.g. `MIT`) |
 | `based_on` | no | Attribution object (see [Attribution](#attribution)) |
 
-**Categories:** `analytics`, `creative`, `development`, `marketing`, `research`
+**Categories:** `analytics`, `creative`, `development`, `general`, `marketing`, `research`
 
 ### persona.json
 

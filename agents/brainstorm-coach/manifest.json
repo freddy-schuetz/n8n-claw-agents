@@ -1,0 +1,10 @@
+{
+  "id": "brainstorm-coach",
+  "name": "Brainstorm Coach",
+  "version": "1.0.0",
+  "category": "creative",
+  "description": "Structured brainstorming, creative ideation, perspective shifts, and innovative problem-solving",
+  "emoji": "💡",
+  "author": "freddy-schuetz",
+  "license": "MIT"
+}

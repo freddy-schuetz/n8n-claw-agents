@@ -1,0 +1,16 @@
+{
+  "id": "legal-advisor",
+  "name": "Legal Advisor",
+  "version": "1.0.0",
+  "category": "general",
+  "description": "GDPR/DSGVO compliance, privacy policies, terms of service, and EU regulatory guidance",
+  "emoji": "⚖️",
+  "author": "freddy-schuetz",
+  "license": "MIT",
+  "based_on": {
+    "source": "agency-agents",
+    "url": "https://github.com/msitarzewski/agency-agents",
+    "original_prompt": "support/support-legal-compliance-checker.md",
+    "license": "MIT"
+  }
+}

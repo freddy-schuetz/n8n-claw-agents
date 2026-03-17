@@ -1,0 +1,16 @@
+{
+  "id": "linkedin-creator",
+  "name": "LinkedIn Creator",
+  "version": "1.0.0",
+  "category": "marketing",
+  "description": "LinkedIn content strategy, thought leadership posts, personal branding, and professional engagement",
+  "emoji": "💼",
+  "author": "freddy-schuetz",
+  "license": "MIT",
+  "based_on": {
+    "source": "agency-agents",
+    "url": "https://github.com/msitarzewski/agency-agents",
+    "original_prompt": "marketing/marketing-linkedin-content-creator.md",
+    "license": "MIT"
+  }
+}

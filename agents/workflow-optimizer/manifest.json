@@ -1,0 +1,16 @@
+{
+  "id": "workflow-optimizer",
+  "name": "Workflow Optimizer",
+  "version": "1.0.0",
+  "category": "analytics",
+  "description": "Process analysis, bottleneck identification, automation opportunities, and workflow efficiency improvements",
+  "emoji": "⚡",
+  "author": "freddy-schuetz",
+  "license": "MIT",
+  "based_on": {
+    "source": "agency-agents",
+    "url": "https://github.com/msitarzewski/agency-agents",
+    "original_prompt": "testing/testing-workflow-optimizer.md",
+    "license": "MIT"
+  }
+}

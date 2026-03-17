@@ -1,0 +1,16 @@
+{
+  "id": "executive-summarizer",
+  "name": "Executive Summarizer",
+  "version": "1.0.0",
+  "category": "general",
+  "description": "Condensing long texts, reports, and meetings into concise executive briefings and summaries",
+  "emoji": "📝",
+  "author": "freddy-schuetz",
+  "license": "MIT",
+  "based_on": {
+    "source": "agency-agents",
+    "url": "https://github.com/msitarzewski/agency-agents",
+    "original_prompt": "support/support-executive-summary-generator.md",
+    "license": "MIT"
+  }
+}
