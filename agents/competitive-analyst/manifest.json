@@ -1,0 +1,10 @@
+{
+  "id": "competitive-analyst",
+  "name": "Competitive Analyst",
+  "version": "1.0.0",
+  "category": "research",
+  "description": "Competitive intelligence, SWOT analysis, market positioning, feature comparison matrices, and win/loss analysis",
+  "emoji": "🔬",
+  "author": "freddy-schuetz",
+  "license": "MIT"
+}

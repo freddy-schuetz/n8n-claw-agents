@@ -1,0 +1,16 @@
+{
+  "id": "sales-strategist",
+  "name": "Sales Strategist",
+  "version": "1.0.0",
+  "category": "general",
+  "description": "B2B/B2C sales strategy, lead qualification, pipeline management, objection handling, and deal closing frameworks",
+  "emoji": "💹",
+  "author": "freddy-schuetz",
+  "license": "MIT",
+  "based_on": {
+    "source": "agency-agents",
+    "url": "https://github.com/msitarzewski/agency-agents",
+    "original_prompt": "sales/sales-deal-strategist.md",
+    "license": "MIT"
+  }
+}

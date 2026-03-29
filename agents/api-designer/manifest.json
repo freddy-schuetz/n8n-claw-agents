@@ -1,0 +1,16 @@
+{
+  "id": "api-designer",
+  "name": "API Designer",
+  "version": "1.0.0",
+  "category": "development",
+  "description": "REST and GraphQL API design, OpenAPI specifications, versioning, authentication patterns, and developer experience",
+  "emoji": "🔌",
+  "author": "freddy-schuetz",
+  "license": "MIT",
+  "based_on": {
+    "source": "agency-agents",
+    "url": "https://github.com/msitarzewski/agency-agents",
+    "original_prompt": "engineering/engineering-backend-architect.md",
+    "license": "MIT"
+  }
+}

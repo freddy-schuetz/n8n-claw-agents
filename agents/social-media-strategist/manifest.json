@@ -1,0 +1,16 @@
+{
+  "id": "social-media-strategist",
+  "name": "Social Media Strategist",
+  "version": "1.0.0",
+  "category": "marketing",
+  "description": "Cross-platform social media strategy, content calendars, community management, and engagement optimization",
+  "emoji": "📱",
+  "author": "freddy-schuetz",
+  "license": "MIT",
+  "based_on": {
+    "source": "agency-agents",
+    "url": "https://github.com/msitarzewski/agency-agents",
+    "original_prompt": "marketing/marketing-social-media-strategist.md",
+    "license": "MIT"
+  }
+}

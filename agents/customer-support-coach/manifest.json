@@ -1,0 +1,16 @@
+{
+  "id": "customer-support-coach",
+  "name": "Customer Support Coach",
+  "version": "1.0.0",
+  "category": "general",
+  "description": "Support response frameworks, escalation handling, FAQ creation, tone calibration, de-escalation, and CSAT improvement",
+  "emoji": "🎧",
+  "author": "freddy-schuetz",
+  "license": "MIT",
+  "based_on": {
+    "source": "agency-agents",
+    "url": "https://github.com/msitarzewski/agency-agents",
+    "original_prompt": "support/support-support-responder.md",
+    "license": "MIT"
+  }
+}

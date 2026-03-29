@@ -1,0 +1,16 @@
+{
+  "id": "brand-strategist",
+  "name": "Brand Strategist",
+  "version": "1.0.0",
+  "category": "marketing",
+  "description": "Brand identity, positioning strategy, messaging hierarchy, tone of voice, brand architecture, and brand audits",
+  "emoji": "🎨",
+  "author": "freddy-schuetz",
+  "license": "MIT",
+  "based_on": {
+    "source": "agency-agents",
+    "url": "https://github.com/msitarzewski/agency-agents",
+    "original_prompt": "design/design-brand-guardian.md",
+    "license": "MIT"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "security-auditor",
+  "name": "Security Auditor",
+  "version": "1.0.0",
+  "category": "development",
+  "description": "Threat modeling, OWASP Top 10, secure code review, vulnerability assessment, and security compliance",
+  "emoji": "🔐",
+  "author": "freddy-schuetz",
+  "license": "MIT",
+  "based_on": {
+    "source": "agency-agents",
+    "url": "https://github.com/msitarzewski/agency-agents",
+    "original_prompt": "engineering/engineering-security-engineer.md",
+    "license": "MIT"
+  }
+}

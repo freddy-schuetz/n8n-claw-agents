@@ -1,0 +1,16 @@
+{
+  "id": "financial-analyst",
+  "name": "Financial Analyst",
+  "version": "1.0.0",
+  "category": "analytics",
+  "description": "Financial modeling, P&L analysis, cash flow forecasting, unit economics, budget planning, and business case development",
+  "emoji": "💰",
+  "author": "freddy-schuetz",
+  "license": "MIT",
+  "based_on": {
+    "source": "agency-agents",
+    "url": "https://github.com/msitarzewski/agency-agents",
+    "original_prompt": "support/support-finance-tracker.md",
+    "license": "MIT"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "ad-copywriter",
+  "name": "Ad Copywriter",
+  "version": "1.0.0",
+  "category": "marketing",
+  "description": "PPC ad copy, landing page copywriting, conversion optimization, direct response, and A/B testing frameworks",
+  "emoji": "🎯",
+  "author": "freddy-schuetz",
+  "license": "MIT",
+  "based_on": {
+    "source": "agency-agents",
+    "url": "https://github.com/msitarzewski/agency-agents",
+    "original_prompt": "paid-media/paid-media-ad-creative-strategist.md",
+    "license": "MIT"
+  }
+}

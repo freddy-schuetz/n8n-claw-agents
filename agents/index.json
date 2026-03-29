@@ -3,12 +3,39 @@
   "format_version": 1,
   "agents": [
     {
+      "id": "ad-copywriter",
+      "name": "Ad Copywriter",
+      "version": "1.0.0",
+      "category": "marketing",
+      "description": "PPC ad copy, landing page copywriting, conversion optimization, direct response, and A/B testing frameworks",
+      "emoji": "🎯",
+      "author": "freddy-schuetz"
+    },
+    {
+      "id": "api-designer",
+      "name": "API Designer",
+      "version": "1.0.0",
+      "category": "development",
+      "description": "REST and GraphQL API design, OpenAPI specifications, versioning, authentication patterns, and developer experience",
+      "emoji": "🔌",
+      "author": "freddy-schuetz"
+    },
+    {
       "id": "brainstorm-coach",
       "name": "Brainstorm Coach",
       "version": "1.0.0",
       "category": "creative",
       "description": "Structured brainstorming, creative ideation, perspective shifts, and innovative problem-solving",
       "emoji": "💡",
+      "author": "freddy-schuetz"
+    },
+    {
+      "id": "brand-strategist",
+      "name": "Brand Strategist",
+      "version": "1.0.0",
+      "category": "marketing",
+      "description": "Brand identity, positioning strategy, messaging hierarchy, tone of voice, brand architecture, and brand audits",
+      "emoji": "🎨",
       "author": "freddy-schuetz"
     },
     {
@@ -21,6 +48,15 @@
       "author": "freddy-schuetz"
     },
     {
+      "id": "competitive-analyst",
+      "name": "Competitive Analyst",
+      "version": "1.0.0",
+      "category": "research",
+      "description": "Competitive intelligence, SWOT analysis, market positioning, feature comparison matrices, and win/loss analysis",
+      "emoji": "🔬",
+      "author": "freddy-schuetz"
+    },
+    {
       "id": "content-creator",
       "name": "Content Creator",
       "version": "1.0.0",
@@ -30,12 +66,30 @@
       "author": "freddy-schuetz"
     },
     {
+      "id": "customer-support-coach",
+      "name": "Customer Support Coach",
+      "version": "1.0.0",
+      "category": "general",
+      "description": "Support response frameworks, escalation handling, FAQ creation, tone calibration, de-escalation, and CSAT improvement",
+      "emoji": "🎧",
+      "author": "freddy-schuetz"
+    },
+    {
       "id": "data-analyst",
       "name": "Data Analyst",
       "version": "1.0.0",
       "category": "analytics",
       "description": "Data analysis, pattern recognition, structured reports, KPI interpretation",
       "emoji": "📊",
+      "author": "freddy-schuetz"
+    },
+    {
+      "id": "devops-engineer",
+      "name": "DevOps Engineer",
+      "version": "1.0.0",
+      "category": "development",
+      "description": "CI/CD pipelines, Docker, Kubernetes, Infrastructure as Code, cloud deployments, and monitoring",
+      "emoji": "🛠️",
       "author": "freddy-schuetz"
     },
     {
@@ -57,6 +111,15 @@
       "author": "freddy-schuetz"
     },
     {
+      "id": "financial-analyst",
+      "name": "Financial Analyst",
+      "version": "1.0.0",
+      "category": "analytics",
+      "description": "Financial modeling, P&L analysis, cash flow forecasting, unit economics, budget planning, and business case development",
+      "emoji": "💰",
+      "author": "freddy-schuetz"
+    },
+    {
       "id": "legal-advisor",
       "name": "Legal Advisor",
       "version": "1.0.0",
@@ -75,12 +138,39 @@
       "author": "freddy-schuetz"
     },
     {
+      "id": "podcast-strategist",
+      "name": "Podcast Strategist",
+      "version": "1.0.0",
+      "category": "creative",
+      "description": "Podcast concept development, show format design, episode planning, audience growth, podcast SEO, and content repurposing",
+      "emoji": "🎙️",
+      "author": "freddy-schuetz"
+    },
+    {
       "id": "product-manager",
       "name": "Product Manager",
       "version": "1.0.0",
       "category": "general",
       "description": "Feature prioritization, roadmap planning, user stories, sprint planning, and product strategy",
       "emoji": "📋",
+      "author": "freddy-schuetz"
+    },
+    {
+      "id": "project-manager",
+      "name": "Project Manager",
+      "version": "1.0.0",
+      "category": "general",
+      "description": "Project planning, WBS, risk management, RACI matrices, stakeholder communication, and status reporting",
+      "emoji": "📅",
+      "author": "freddy-schuetz"
+    },
+    {
+      "id": "proposal-writer",
+      "name": "Proposal Writer",
+      "version": "1.0.0",
+      "category": "general",
+      "description": "Business proposals, RFP responses, grant applications, pitch narratives, executive summaries, and win theme development",
+      "emoji": "📄",
       "author": "freddy-schuetz"
     },
     {
@@ -93,12 +183,39 @@
       "author": "freddy-schuetz"
     },
     {
+      "id": "sales-strategist",
+      "name": "Sales Strategist",
+      "version": "1.0.0",
+      "category": "general",
+      "description": "B2B/B2C sales strategy, lead qualification, pipeline management, objection handling, and deal closing frameworks",
+      "emoji": "💹",
+      "author": "freddy-schuetz"
+    },
+    {
+      "id": "security-auditor",
+      "name": "Security Auditor",
+      "version": "1.0.0",
+      "category": "development",
+      "description": "Threat modeling, OWASP Top 10, secure code review, vulnerability assessment, and security compliance",
+      "emoji": "🔐",
+      "author": "freddy-schuetz"
+    },
+    {
       "id": "seo-specialist",
       "name": "SEO Specialist",
       "version": "1.0.0",
       "category": "marketing",
       "description": "Technical SEO, content optimization, link authority building, and organic search growth",
       "emoji": "🔍",
+      "author": "freddy-schuetz"
+    },
+    {
+      "id": "social-media-strategist",
+      "name": "Social Media Strategist",
+      "version": "1.0.0",
+      "category": "marketing",
+      "description": "Cross-platform social media strategy, content calendars, community management, and engagement optimization",
+      "emoji": "📱",
       "author": "freddy-schuetz"
     },
     {
@@ -135,6 +252,24 @@
       "category": "research",
       "description": "Market intelligence, emerging trend identification, competitive analysis, and technology scouting",
       "emoji": "🔭",
+      "author": "freddy-schuetz"
+    },
+    {
+      "id": "ux-researcher",
+      "name": "UX Researcher",
+      "version": "1.0.0",
+      "category": "research",
+      "description": "User research methods, usability testing, persona development, jobs-to-be-done, journey mapping, and insight synthesis",
+      "emoji": "🧪",
+      "author": "freddy-schuetz"
+    },
+    {
+      "id": "video-scriptwriter",
+      "name": "Video Scriptwriter",
+      "version": "1.0.0",
+      "category": "creative",
+      "description": "YouTube scripts, explainer videos, ad scripts, video hooks, storytelling structure, and CTA design for video",
+      "emoji": "🎬",
       "author": "freddy-schuetz"
     },
     {

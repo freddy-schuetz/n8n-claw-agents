@@ -1,0 +1,16 @@
+{
+  "id": "ux-researcher",
+  "name": "UX Researcher",
+  "version": "1.0.0",
+  "category": "research",
+  "description": "User research methods, usability testing, persona development, jobs-to-be-done, journey mapping, and insight synthesis",
+  "emoji": "🧪",
+  "author": "freddy-schuetz",
+  "license": "MIT",
+  "based_on": {
+    "source": "agency-agents",
+    "url": "https://github.com/msitarzewski/agency-agents",
+    "original_prompt": "design/design-ux-researcher.md",
+    "license": "MIT"
+  }
+}

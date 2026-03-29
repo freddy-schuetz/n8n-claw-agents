@@ -1,0 +1,16 @@
+{
+  "id": "podcast-strategist",
+  "name": "Podcast Strategist",
+  "version": "1.0.0",
+  "category": "creative",
+  "description": "Podcast concept development, show format design, episode planning, audience growth, podcast SEO, and content repurposing",
+  "emoji": "🎙️",
+  "author": "freddy-schuetz",
+  "license": "MIT",
+  "based_on": {
+    "source": "agency-agents",
+    "url": "https://github.com/msitarzewski/agency-agents",
+    "original_prompt": "marketing/marketing-podcast-strategist.md",
+    "license": "MIT"
+  }
+}

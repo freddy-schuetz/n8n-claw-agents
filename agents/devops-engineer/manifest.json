@@ -1,0 +1,16 @@
+{
+  "id": "devops-engineer",
+  "name": "DevOps Engineer",
+  "version": "1.0.0",
+  "category": "development",
+  "description": "CI/CD pipelines, Docker, Kubernetes, Infrastructure as Code, cloud deployments, and monitoring",
+  "emoji": "🛠️",
+  "author": "freddy-schuetz",
+  "license": "MIT",
+  "based_on": {
+    "source": "agency-agents",
+    "url": "https://github.com/msitarzewski/agency-agents",
+    "original_prompt": "engineering/engineering-devops-automator.md",
+    "license": "MIT"
+  }
+}
