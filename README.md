@@ -10,6 +10,7 @@ Expert agent personas for [n8n-claw](https://github.com/freddy-schuetz/n8n-claw)
 
 | Agent | Description | Based on | Author |
 |-------|-------------|----------|--------|
+| [Ads Performance Analyst](agents/ads-performance-analyst/) | Google Ads, Meta, LinkedIn, TikTok reporting — ROAS, CPA, CTR, anomaly detection | [agency-agents](https://github.com/msitarzewski/agency-agents/blob/main/paid-media/paid-media-auditor.md) | [@freddy-schuetz](https://github.com/freddy-schuetz) |
 | [Data Analyst](agents/data-analyst/) | Data analysis, pattern recognition, structured reports | — | [@freddy-schuetz](https://github.com/freddy-schuetz) |
 | [Financial Analyst](agents/financial-analyst/) | Financial modeling, P&L analysis, cash flow, unit economics | [agency-agents](https://github.com/msitarzewski/agency-agents/blob/main/support/support-finance-tracker.md) | [@freddy-schuetz](https://github.com/freddy-schuetz) |
 | [Workflow Optimizer](agents/workflow-optimizer/) | Process analysis, bottleneck identification, automation opportunities | [agency-agents](https://github.com/msitarzewski/agency-agents/blob/main/testing/testing-workflow-optimizer.md) | [@freddy-schuetz](https://github.com/freddy-schuetz) |

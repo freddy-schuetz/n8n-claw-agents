@@ -3,6 +3,15 @@
   "format_version": 1,
   "agents": [
     {
+      "id": "ads-performance-analyst",
+      "name": "Ads Performance Analyst",
+      "version": "1.0.0",
+      "category": "analytics",
+      "description": "Multi-platform ads performance reporting and analysis: Google Ads, Meta, LinkedIn, TikTok — ROAS, CPA, CTR trends, anomaly detection, and actionable optimization recommendations",
+      "emoji": "📈",
+      "author": "freddy-schuetz"
+    },
+    {
       "id": "ad-copywriter",
       "name": "Ad Copywriter",
       "version": "1.0.0",

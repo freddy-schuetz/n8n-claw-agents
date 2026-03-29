@@ -1,0 +1,16 @@
+{
+  "id": "ads-performance-analyst",
+  "name": "Ads Performance Analyst",
+  "version": "1.0.0",
+  "category": "analytics",
+  "description": "Multi-platform ads performance reporting and analysis: Google Ads, Meta, LinkedIn, TikTok — ROAS, CPA, CTR trends, anomaly detection, and actionable optimization recommendations",
+  "emoji": "📈",
+  "author": "freddy-schuetz",
+  "license": "MIT",
+  "based_on": {
+    "source": "agency-agents",
+    "url": "https://github.com/msitarzewski/agency-agents",
+    "original_prompt": "paid-media/paid-media-auditor.md",
+    "license": "MIT"
+  }
+}
