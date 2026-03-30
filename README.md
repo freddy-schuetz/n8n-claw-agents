@@ -6,9 +6,26 @@ Expert agent personas for [n8n-claw](https://github.com/freddy-schuetz/n8n-claw)
 
 ## Available Agents (100)
 
+| | Category | Agents | Focus |
+|---|---|:---:|---|
+| 📊 | [Analytics](#-analytics-9) | 9 | Data, performance, conversion, finance |
+| 📢 | [Communications](#-communications-2) | 2 | PR, crisis comms, investor relations |
+| 🎨 | [Creative](#-creative-8) | 8 | Design, video, podcasts, UX |
+| 💻 | [Development](#-development-25) | 25 | Backend, frontend, DevOps, security, QA |
+| 📚 | [Education](#-education-2) | 2 | Courses, knowledge management |
+| 👥 | [HR](#-hr-3) | 3 | Recruiting, training, retention |
+| 📣 | [Marketing](#-marketing-16) | 16 | SEO, social media, content, growth |
+| ⚙️ | [Operations](#-operations-16) | 16 | Support, legal, events, project management |
+| 🎯 | [Product](#-product-6) | 6 | Strategy, prioritization, research |
+| 🔬 | [Research](#-research-5) | 5 | Market, academic, competitive, UX |
+| 💹 | [Sales](#-sales-8) | 8 | Outbound, coaching, proposals, partnerships |
+
 **How to read the table:** *Description* explains what the agent specializes in. *When to Use* gives practical scenarios for delegation. *Skills* shows which [MCP Skills](https://github.com/freddy-schuetz/n8n-claw-templates) pair well with the agent — installing them gives the sub-agent additional tools to work with ("—" = no specific skill pairing). *Source* links to the original prompt if the persona was adapted from [agency-agents](https://github.com/msitarzewski/agency-agents), or shows the author for original agents.
 
-### Analytics (9)
+<details>
+<summary><strong>📊 Analytics (9)</strong></summary>
+
+&nbsp;
 
 | Agent | Description | When to Use | Skills | Source |
 |-------|-------------|-------------|--------|--------|
@@ -22,14 +39,24 @@ Expert agent personas for [n8n-claw](https://github.com/freddy-schuetz/n8n-claw)
 | Supply Chain Analyst | Inventory optimization, logistics analysis, demand forecasting, and supplier performance tracking | Inventory management, logistics planning, demand forecasting | — | [agency-agents](https://github.com/msitarzewski/agency-agents) |
 | [Workflow Optimizer](agents/workflow-optimizer/) | Process analysis, bottleneck identification, automation opportunities, and workflow efficiency improvements | Process bottlenecks, automation opportunities, efficiency audits | — | [agency-agents](https://github.com/msitarzewski/agency-agents/blob/main/testing/testing-workflow-optimizer.md) |
 
-### Communications (2)
+</details>
+
+<details>
+<summary><strong>📢 Communications (2)</strong></summary>
+
+&nbsp;
 
 | Agent | Description | When to Use | Skills | Source |
 |-------|-------------|-------------|--------|--------|
 | Communications Strategist | Crisis communication, internal comms, stakeholder messaging, PR coordination, and media relations | Crisis response, internal announcements, press releases | — | [@freddy-schuetz](https://github.com/freddy-schuetz) |
 | Investor Relations Manager | Investor updates, pitch decks, financial narratives, funding round preparation, and shareholder communications | Fundraising, investor updates, pitch preparation | — | [@freddy-schuetz](https://github.com/freddy-schuetz) |
 
-### Creative (8)
+</details>
+
+<details>
+<summary><strong>🎨 Creative (8)</strong></summary>
+
+&nbsp;
 
 | Agent | Description | When to Use | Skills | Source |
 |-------|-------------|-------------|--------|--------|
@@ -42,7 +69,12 @@ Expert agent personas for [n8n-claw](https://github.com/freddy-schuetz/n8n-claw)
 | [Video Scriptwriter](agents/video-scriptwriter/) | YouTube scripts, explainer videos, ad scripts, video hooks, storytelling structure, and CTA design for video | YouTube scripts, explainer videos, ad scripts | — | [agency-agents](https://github.com/msitarzewski/agency-agents/blob/main/marketing/marketing-video-optimization-specialist.md) |
 | [Visual Storyteller](agents/visual-storyteller/) | Visual narratives, infographic design, data visualization, and multimedia content strategy | Infographic design, data visualization, visual narratives | — | [agency-agents](https://github.com/msitarzewski/agency-agents/blob/main/design/design-visual-storyteller.md) |
 
-### Development (25)
+</details>
+
+<details>
+<summary><strong>💻 Development (25)</strong></summary>
+
+&nbsp;
 
 | Agent | Description | When to Use | Skills | Source |
 |-------|-------------|-------------|--------|--------|
@@ -72,14 +104,24 @@ Expert agent personas for [n8n-claw](https://github.com/freddy-schuetz/n8n-claw)
 | [Technical Writer](agents/technical-writer/) | Developer documentation, API references, README files, tutorials, and technical guides | API docs, README files, tutorials, technical guides | GitHub, Wikipedia, PDF Tools +2 more | [agency-agents](https://github.com/msitarzewski/agency-agents/blob/main/engineering/engineering-technical-writer.md) |
 | [Workflow Architect](agents/workflow-architect/) | n8n workflow design, process-to-automation mapping, node selection, and workflow architecture planning | Process-to-automation mapping, workflow blueprints, node selection | — | [@freddy-schuetz](https://github.com/freddy-schuetz) |
 
-### Education (2)
+</details>
+
+<details>
+<summary><strong>📚 Education (2)</strong></summary>
+
+&nbsp;
 
 | Agent | Description | When to Use | Skills | Source |
 |-------|-------------|-------------|--------|--------|
 | Course Designer | Curriculum structure, learning objectives, assessment design, e-learning content, and certification programs | Online courses, workshops, certification programs | — | [@freddy-schuetz](https://github.com/freddy-schuetz) |
 | Knowledge Manager | Documentation strategy, knowledge base architecture, information findability, and wiki structure | Knowledge base setup, documentation audits, wiki planning | — | [@freddy-schuetz](https://github.com/freddy-schuetz) |
 
-### HR (3)
+</details>
+
+<details>
+<summary><strong>👥 HR (3)</strong></summary>
+
+&nbsp;
 
 | Agent | Description | When to Use | Skills | Source |
 |-------|-------------|-------------|--------|--------|
@@ -87,7 +129,12 @@ Expert agent personas for [n8n-claw](https://github.com/freddy-schuetz/n8n-claw)
 | HR Strategist | Employee retention, compensation planning, performance management frameworks, and organizational culture | Retention strategy, comp planning, performance reviews | — | [@freddy-schuetz](https://github.com/freddy-schuetz) |
 | Recruitment Specialist | Job descriptions, candidate evaluation, interview frameworks, hiring pipelines, and employer branding | Hiring process, job posts, interview prep | — | [agency-agents](https://github.com/msitarzewski/agency-agents) |
 
-### Marketing (16)
+</details>
+
+<details>
+<summary><strong>📣 Marketing (16)</strong></summary>
+
+&nbsp;
 
 | Agent | Description | When to Use | Skills | Source |
 |-------|-------------|-------------|--------|--------|
@@ -108,7 +155,12 @@ Expert agent personas for [n8n-claw](https://github.com/freddy-schuetz/n8n-claw)
 | [Twitter Strategist](agents/twitter-strategist/) | Twitter/X content strategy, thread writing, engagement tactics, trend riding, and audience growth | Thread writing, trend riding, audience growth | News (NewsAPI), Hacker News | [agency-agents](https://github.com/msitarzewski/agency-agents/blob/main/prompts/marketing/marketing-twitter-strategist.md) |
 | Video Optimization Specialist | YouTube SEO, thumbnail strategy, retention analysis, video distribution, and content repurposing | YouTube growth, video SEO, content repurposing | — | [agency-agents](https://github.com/msitarzewski/agency-agents) |
 
-### Operations (16)
+</details>
+
+<details>
+<summary><strong>⚙️ Operations (16)</strong></summary>
+
+&nbsp;
 
 | Agent | Description | When to Use | Skills | Source |
 |-------|-------------|-------------|--------|--------|
@@ -129,7 +181,12 @@ Expert agent personas for [n8n-claw](https://github.com/freddy-schuetz/n8n-claw)
 | [Translator](agents/translator/) | Context-aware translations between German, English, and French with tone adaptation | German/English/French translations, tone adaptation | DeepL Translate, Dictionary | [@freddy-schuetz](https://github.com/freddy-schuetz) |
 | [Travel Planner](agents/travel-planner/) | Trip planning, itinerary building, transport connections, weather-aware scheduling, and travel logistics | Trip planning, route optimization, weather-aware scheduling | Deutsche Bahn, Wiener Linien, Weather, Public Holidays +5 more | [@freddy-schuetz](https://github.com/freddy-schuetz) |
 
-### Product (6)
+</details>
+
+<details>
+<summary><strong>🎯 Product (6)</strong></summary>
+
+&nbsp;
 
 | Agent | Description | When to Use | Skills | Source |
 |-------|-------------|-------------|--------|--------|
@@ -140,7 +197,12 @@ Expert agent personas for [n8n-claw](https://github.com/freddy-schuetz/n8n-claw)
 | [Product Strategist](agents/product-strategist/) | Product vision, market positioning, competitive differentiation, go-to-market strategy, and pricing models | Market positioning, competitive analysis, GTM strategy | Google Analytics, NocoDB CRM, News | [agency-agents](https://github.com/msitarzewski/agency-agents/blob/main/prompts/product/product-manager.md) |
 | [Sprint Prioritizer](agents/sprint-prioritizer/) | Sprint planning, backlog prioritization with RICE/MoSCoW/Kano, and team velocity optimization | Backlog grooming, RICE/MoSCoW scoring, velocity optimization | Todoist, Vikunja, Notion | [agency-agents](https://github.com/msitarzewski/agency-agents/blob/main/product/product-sprint-prioritizer.md) |
 
-### Research (5)
+</details>
+
+<details>
+<summary><strong>🔬 Research (5)</strong></summary>
+
+&nbsp;
 
 | Agent | Description | When to Use | Skills | Source |
 |-------|-------------|-------------|--------|--------|
@@ -150,7 +212,12 @@ Expert agent personas for [n8n-claw](https://github.com/freddy-schuetz/n8n-claw)
 | [Trend Researcher](agents/trend-researcher/) | Market intelligence, emerging trend identification, competitive analysis, and technology scouting | Emerging trends, market intelligence, technology scouting | News (NewsAPI), Hacker News | [agency-agents](https://github.com/msitarzewski/agency-agents/blob/main/product/product-trend-researcher.md) |
 | [UX Researcher](agents/ux-researcher/) | User research methods, usability testing, persona development, jobs-to-be-done, journey mapping, and insight synthesis | Usability testing, persona development, journey mapping | — | [agency-agents](https://github.com/msitarzewski/agency-agents/blob/main/design/design-ux-researcher.md) |
 
-### Sales (8)
+</details>
+
+<details>
+<summary><strong>💹 Sales (8)</strong></summary>
+
+&nbsp;
 
 | Agent | Description | When to Use | Skills | Source |
 |-------|-------------|-------------|--------|--------|
@@ -162,6 +229,8 @@ Expert agent personas for [n8n-claw](https://github.com/freddy-schuetz/n8n-claw)
 | [Sales Coach](agents/sales-coach/) | Sales rep development, pipeline review facilitation, call coaching, and forecast discipline | Rep development, call coaching, pipeline reviews | — | [agency-agents](https://github.com/msitarzewski/agency-agents/blob/main/sales/sales-coach.md) |
 | Sales Engineer | Technical demos, proof-of-concept design, solution architecture for prospects, and RFI/RFP responses | Technical sales support, POC design, demo preparation | — | [agency-agents](https://github.com/msitarzewski/agency-agents) |
 | [Sales Strategist](agents/sales-strategist/) | B2B/B2C sales strategy, lead qualification, pipeline management, objection handling, and deal closing frameworks | Sales strategy, lead qualification, deal closing frameworks | NocoDB CRM | [agency-agents](https://github.com/msitarzewski/agency-agents/blob/main/sales/sales-deal-strategist.md) |
+
+</details>
 
 ---
 
