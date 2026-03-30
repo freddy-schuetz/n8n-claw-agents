@@ -1,0 +1,16 @@
+{
+  "id": "twitter-strategist",
+  "name": "Twitter Strategist",
+  "version": "1.0.0",
+  "category": "marketing",
+  "description": "Twitter/X content strategy, thread writing, engagement tactics, trend riding, and audience growth",
+  "emoji": "\ud83d\udc26",
+  "author": "freddy-schuetz",
+  "license": "MIT",
+  "based_on": {
+    "source": "agency-agents",
+    "url": "https://github.com/msitarzewski/agency-agents",
+    "original_prompt": "prompts/marketing/marketing-twitter-strategist.md",
+    "license": "MIT"
+  }
+}

@@ -2,7 +2,7 @@
   "id": "executive-summarizer",
   "name": "Executive Summarizer",
   "version": "1.0.0",
-  "category": "general",
+  "category": "operations",
   "description": "Condensing long texts, reports, and meetings into concise executive briefings and summaries",
   "emoji": "📝",
   "author": "freddy-schuetz",

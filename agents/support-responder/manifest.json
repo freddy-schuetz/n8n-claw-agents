@@ -1,10 +1,10 @@
 {
-  "id": "customer-support-coach",
-  "name": "Customer Support Coach",
+  "id": "support-responder",
+  "name": "Support Responder",
   "version": "1.0.0",
   "category": "operations",
-  "description": "Support response frameworks, escalation handling, FAQ creation, tone calibration, de-escalation, and CSAT improvement",
-  "emoji": "🎧",
+  "description": "First-response support ticket drafting, issue triage, knowledge base article creation, and escalation handling",
+  "emoji": "\ud83c\udfa7",
   "author": "freddy-schuetz",
   "license": "MIT",
   "based_on": {

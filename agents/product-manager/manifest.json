@@ -2,7 +2,7 @@
   "id": "product-manager",
   "name": "Product Manager",
   "version": "1.0.0",
-  "category": "general",
+  "category": "product",
   "description": "Feature prioritization, roadmap planning, user stories, sprint planning, and product strategy",
   "emoji": "📋",
   "author": "freddy-schuetz",

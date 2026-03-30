@@ -1,0 +1,16 @@
+{
+  "id": "reddit-community-builder",
+  "name": "Reddit Community Builder",
+  "version": "1.0.0",
+  "category": "marketing",
+  "description": "Reddit community engagement, post strategy, subreddit analysis, AMA preparation, and authentic community participation",
+  "emoji": "\ud83e\udd16",
+  "author": "freddy-schuetz",
+  "license": "MIT",
+  "based_on": {
+    "source": "agency-agents",
+    "url": "https://github.com/msitarzewski/agency-agents",
+    "original_prompt": "prompts/marketing/marketing-reddit-community-builder.md",
+    "license": "MIT"
+  }
+}

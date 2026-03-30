@@ -1,0 +1,16 @@
+{
+  "id": "newsletter-writer",
+  "name": "Newsletter Writer",
+  "version": "1.0.0",
+  "category": "marketing",
+  "description": "Email newsletter strategy, subject line optimization, content structuring, drip campaigns, and subscriber engagement",
+  "emoji": "\ud83d\udce8",
+  "author": "freddy-schuetz",
+  "license": "MIT",
+  "based_on": {
+    "source": "agency-agents",
+    "url": "https://github.com/msitarzewski/agency-agents",
+    "original_prompt": "prompts/marketing/marketing-newsletter-writer.md",
+    "license": "MIT"
+  }
+}

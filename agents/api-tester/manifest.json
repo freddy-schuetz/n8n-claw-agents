@@ -2,7 +2,7 @@
   "id": "api-tester",
   "name": "API Tester",
   "version": "1.0.0",
-  "category": "research",
+  "category": "development",
   "description": "API testing and validation \u2014 functional, performance, security, and contract testing for REST and GraphQL",
   "emoji": "🧪",
   "author": "freddy-schuetz",

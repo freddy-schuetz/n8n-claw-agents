@@ -2,7 +2,7 @@
   "id": "sprint-prioritizer",
   "name": "Sprint Prioritizer",
   "version": "1.0.0",
-  "category": "general",
+  "category": "product",
   "description": "Sprint planning, backlog prioritization with RICE/MoSCoW/Kano, and team velocity optimization",
   "emoji": "🎯",
   "author": "freddy-schuetz",

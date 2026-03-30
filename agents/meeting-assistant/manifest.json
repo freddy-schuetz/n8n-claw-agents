@@ -2,7 +2,7 @@
   "id": "meeting-assistant",
   "name": "Meeting Assistant",
   "version": "1.0.0",
-  "category": "general",
+  "category": "operations",
   "description": "Structured meeting protocols, transcript processing, action items, and decision tracking",
   "emoji": "📋",
   "author": "freddy-schuetz",

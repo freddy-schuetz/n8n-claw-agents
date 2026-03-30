@@ -2,7 +2,7 @@
   "id": "accessibility-auditor",
   "name": "Accessibility Auditor",
   "version": "1.0.0",
-  "category": "general",
+  "category": "development",
   "description": "WCAG 2.2 compliance audits, assistive technology testing, and inclusive design guidance",
   "emoji": "♿",
   "author": "freddy-schuetz",

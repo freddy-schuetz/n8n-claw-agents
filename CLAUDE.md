@@ -49,7 +49,7 @@ See [TEMPLATE_EXAMPLE.md](TEMPLATE_EXAMPLE.md) for the full guide. Quick checkli
   "id": "your-agent-id",
   "name": "Your Agent Name",
   "version": "1.0.0",
-  "category": "general",
+  "category": "operations",
   "description": "What this agent does",
   "emoji": "🎯",
   "author": "your-github-username",

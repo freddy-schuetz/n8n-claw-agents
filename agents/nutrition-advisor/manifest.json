@@ -1,0 +1,10 @@
+{
+  "id": "nutrition-advisor",
+  "name": "Nutrition Advisor",
+  "version": "1.0.0",
+  "category": "operations",
+  "description": "Nutrition analysis, meal planning, dietary guidance, food product evaluation, and recipe suggestions",
+  "emoji": "\ud83e\udd57",
+  "author": "freddy-schuetz",
+  "license": "MIT"
+}

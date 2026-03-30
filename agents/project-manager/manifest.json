@@ -2,7 +2,7 @@
   "id": "project-manager",
   "name": "Project Manager",
   "version": "1.0.0",
-  "category": "general",
+  "category": "operations",
   "description": "Project planning, WBS, risk management, RACI matrices, stakeholder communication, and status reporting",
   "emoji": "📅",
   "author": "freddy-schuetz",

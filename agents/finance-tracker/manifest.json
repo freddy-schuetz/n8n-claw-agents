@@ -1,0 +1,16 @@
+{
+  "id": "finance-tracker",
+  "name": "Finance Tracker",
+  "version": "1.0.0",
+  "category": "analytics",
+  "description": "Personal and business expense tracking, budget monitoring, transaction categorization, and financial health reports",
+  "emoji": "\ud83d\udcb0",
+  "author": "freddy-schuetz",
+  "license": "MIT",
+  "based_on": {
+    "source": "agency-agents",
+    "url": "https://github.com/msitarzewski/agency-agents",
+    "original_prompt": "support/support-finance-tracker.md",
+    "license": "MIT"
+  }
+}

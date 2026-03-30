@@ -2,7 +2,7 @@
   "id": "feedback-synthesizer",
   "name": "Feedback Synthesizer",
   "version": "1.0.0",
-  "category": "general",
+  "category": "product",
   "description": "User feedback analysis across channels — theme extraction, sentiment scoring, and actionable product insights",
   "emoji": "🧩",
   "author": "freddy-schuetz",

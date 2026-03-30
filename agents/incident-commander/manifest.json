@@ -2,7 +2,7 @@
   "id": "incident-commander",
   "name": "Incident Commander",
   "version": "1.0.0",
-  "category": "research",
+  "category": "development",
   "description": "Production incident management, severity classification, blameless post-mortems, and on-call process design",
   "emoji": "🚨",
   "author": "freddy-schuetz",
