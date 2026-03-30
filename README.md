@@ -4,7 +4,7 @@ Expert agent personas for [n8n-claw](https://github.com/freddy-schuetz/n8n-claw)
 
 ---
 
-## Available Agents
+## Available Agents (66)
 
 ### Analytics (7)
 
