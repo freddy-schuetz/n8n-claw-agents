@@ -491,6 +491,14 @@
       "version": "1.0.0"
     },
     {
+      "id": "outdoor-planner",
+      "name": "Outdoor Planner",
+      "category": "operations",
+      "description": "Hiking, cycling, and trail route planning with GPX tracks, elevation profiles, POI discovery, and multi-day tour logistics",
+      "emoji": "🥾",
+      "version": "1.0.0"
+    },
+    {
       "id": "partnership-manager",
       "name": "Partnership Manager",
       "category": "sales",
