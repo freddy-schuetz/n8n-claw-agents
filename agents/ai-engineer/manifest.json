@@ -1,0 +1,10 @@
+{
+  "id": "ai-engineer",
+  "name": "AI Engineer",
+  "version": "1.0.0",
+  "category": "development",
+  "description": "LLM integration, prompt engineering, tool-calling architecture, RAG pipelines, and AI agent design",
+  "emoji": "🤖",
+  "author": "freddy-schuetz",
+  "license": "MIT"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "mcp-developer",
+  "name": "MCP Developer",
+  "version": "1.0.0",
+  "category": "development",
+  "description": "MCP server development, tool design, n8n-claw skill creation, and API-to-MCP integration",
+  "emoji": "🔧",
+  "author": "freddy-schuetz",
+  "license": "MIT"
+}

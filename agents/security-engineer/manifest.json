@@ -1,0 +1,10 @@
+{
+  "id": "security-engineer",
+  "name": "Security Engineer",
+  "version": "1.0.0",
+  "category": "development",
+  "description": "Security architecture, authentication systems, encryption implementation, infrastructure hardening, and secure defaults",
+  "emoji": "🛡️",
+  "author": "freddy-schuetz",
+  "license": "MIT"
+}

@@ -4,7 +4,7 @@ Expert agent personas for [n8n-claw](https://github.com/freddy-schuetz/n8n-claw)
 
 ---
 
-## Available Agents (66)
+## Available Agents (73)
 
 **How to read the table:** *Description* explains what the agent specializes in. *When to Use* gives practical scenarios for delegation. *Skills* shows which [MCP Skills](https://github.com/freddy-schuetz/n8n-claw-templates) pair well with the agent — installing them gives the sub-agent additional tools to work with ("—" = no specific skill pairing). *Source* links to the original prompt if the persona was adapted from [agency-agents](https://github.com/msitarzewski/agency-agents), or shows the author for original agents.
 
@@ -32,13 +32,16 @@ Expert agent personas for [n8n-claw](https://github.com/freddy-schuetz/n8n-claw)
 | [Video Scriptwriter](agents/video-scriptwriter/) | YouTube scripts, explainer videos, ad scripts, video hooks, storytelling structure, and CTA design for video | YouTube scripts, explainer videos, ad scripts | — | [agency-agents](https://github.com/msitarzewski/agency-agents/blob/main/marketing/marketing-video-optimization-specialist.md) |
 | [Visual Storyteller](agents/visual-storyteller/) | Visual narratives, infographic design, data visualization, and multimedia content strategy | Infographic design, data visualization, visual narratives | — | [agency-agents](https://github.com/msitarzewski/agency-agents/blob/main/design/design-visual-storyteller.md) |
 
-### Development (15)
+### Development (22)
 
 | Agent | Description | When to Use | Skills | Source |
 |-------|-------------|-------------|--------|--------|
 | [Accessibility Auditor](agents/accessibility-auditor/) | WCAG 2.2 compliance audits, assistive technology testing, and inclusive design guidance | WCAG compliance, assistive tech testing, inclusive design | Website Check | [agency-agents](https://github.com/msitarzewski/agency-agents/blob/main/testing/testing-accessibility-auditor.md) |
+| [AI Engineer](agents/ai-engineer/) | LLM integration, prompt engineering, tool-calling architecture, RAG pipelines, and AI agent design | LLM integration, tool-calling design, RAG pipelines | — | [@freddy-schuetz](https://github.com/freddy-schuetz) |
 | [API Designer](agents/api-designer/) | REST and GraphQL API design, OpenAPI specifications, versioning, authentication patterns, and developer experience | REST/GraphQL API design, OpenAPI specs, versioning | — | [agency-agents](https://github.com/msitarzewski/agency-agents/blob/main/engineering/engineering-backend-architect.md) |
 | [API Tester](agents/api-tester/) | API testing and validation — functional, performance, security, and contract testing for REST and GraphQL | API validation, contract testing, security testing | — | [agency-agents](https://github.com/msitarzewski/agency-agents/blob/main/testing/testing-api-tester.md) |
+| [Automation Governance Architect](agents/automation-governance-architect/) | n8n workflow auditing, automation governance, naming conventions, error handling standards, and workflow lifecycle management | Workflow audits, automation standards, governance frameworks | — | [@freddy-schuetz](https://github.com/freddy-schuetz) |
+| [Backend Architect](agents/backend-architect/) | Backend system design, API architecture, PostgreSQL/Supabase patterns, microservices, and data modeling | API design, database modeling, Supabase/PostgREST patterns | — | [@freddy-schuetz](https://github.com/freddy-schuetz) |
 | [Code Reviewer](agents/code-reviewer/) | Constructive code reviews focused on correctness, security, maintainability, and performance | PR reviews, code quality gates, security review | GitHub | [agency-agents](https://github.com/msitarzewski/agency-agents/blob/main/engineering/engineering-code-reviewer.md) |
 | [Data Engineer](agents/data-engineer/) | ETL/ELT pipelines, data lakehouse architecture, data quality, and streaming systems | ETL/ELT pipelines, data lakehouse, streaming systems | — | [agency-agents](https://github.com/msitarzewski/agency-agents/blob/main/engineering/engineering-data-engineer.md) |
 | [Database Optimizer](agents/database-optimizer/) | Schema design, query optimization, indexing strategies, and performance tuning for PostgreSQL and MySQL | Slow query debugging, schema design, index tuning | — | [agency-agents](https://github.com/msitarzewski/agency-agents/blob/main/engineering/engineering-database-optimizer.md) |
@@ -46,11 +49,15 @@ Expert agent personas for [n8n-claw](https://github.com/freddy-schuetz/n8n-claw)
 | [Frontend Developer](agents/frontend-developer/) | Modern web development with React, Vue, and Angular — responsive design, performance optimization, and accessibility | Modern web apps, pixel-perfect UIs, Core Web Vitals | Website Check, GitHub | [agency-agents](https://github.com/msitarzewski/agency-agents/blob/main/engineering/engineering-frontend-developer.md) |
 | [Git Workflow Master](agents/git-workflow-master/) | Git branching strategies, conventional commits, rebase workflows, and CI-friendly branch management | Branch strategy, history cleanup, CI-friendly workflows | GitHub | [agency-agents](https://github.com/msitarzewski/agency-agents/blob/main/engineering/engineering-git-workflow-master.md) |
 | [Incident Commander](agents/incident-commander/) | Production incident management, severity classification, blameless post-mortems, and on-call process design | Production incidents, severity triage, blameless post-mortems | — | [agency-agents](https://github.com/msitarzewski/agency-agents/blob/main/engineering/engineering-incident-response-commander.md) |
+| [Infrastructure Maintainer](agents/infrastructure-maintainer/) | VPS management, Docker operations, server monitoring, backup strategies, and system reliability | VPS maintenance, Docker ops, backup verification, SSL certs | — | [@freddy-schuetz](https://github.com/freddy-schuetz) |
+| [MCP Developer](agents/mcp-developer/) | MCP server development, tool design, n8n-claw skill creation, and API-to-MCP integration | MCP server building, skill development, API-to-tool integration | — | [@freddy-schuetz](https://github.com/freddy-schuetz) |
 | [Rapid Prototyper](agents/rapid-prototyper/) | Ultra-fast MVP development, hypothesis validation, and prototype-to-production transition planning | Quick MVPs, hackathon projects, hypothesis validation | GitHub | [agency-agents](https://github.com/msitarzewski/agency-agents/blob/main/engineering/engineering-rapid-prototyper.md) |
 | [Security Auditor](agents/security-auditor/) | Threat modeling, OWASP Top 10, secure code review, vulnerability assessment, and security compliance | Threat modeling, vulnerability assessment, OWASP audits | IP Geolocation, Website Check | [agency-agents](https://github.com/msitarzewski/agency-agents/blob/main/engineering/engineering-security-engineer.md) |
+| [Security Engineer](agents/security-engineer/) | Security architecture, authentication systems, encryption implementation, infrastructure hardening, and secure defaults | Auth system design, encryption setup, infrastructure hardening | — | [@freddy-schuetz](https://github.com/freddy-schuetz) |
 | [Software Architect](agents/software-architect/) | System design, architectural patterns, trade-off analysis, and technical decision records | Architecture decisions, system design, trade-off analysis | — | [agency-agents](https://github.com/msitarzewski/agency-agents/blob/main/engineering/engineering-software-architect.md) |
 | [SRE](agents/sre/) | Site reliability engineering: SLOs, error budgets, observability, toil reduction, and incident readiness | Production reliability, toil reduction, capacity planning | IP Geolocation | [agency-agents](https://github.com/msitarzewski/agency-agents/blob/main/engineering/engineering-sre.md) |
 | [Technical Writer](agents/technical-writer/) | Developer documentation, API references, README files, tutorials, and technical guides | API docs, README files, tutorials, technical guides | GitHub, Wikipedia, PDF Tools +2 more | [agency-agents](https://github.com/msitarzewski/agency-agents/blob/main/engineering/engineering-technical-writer.md) |
+| [Workflow Architect](agents/workflow-architect/) | n8n workflow design, process-to-automation mapping, node selection, and workflow architecture planning | Process-to-automation mapping, workflow blueprints, node selection | — | [@freddy-schuetz](https://github.com/freddy-schuetz) |
 
 ### Marketing (13)
 
@@ -320,7 +327,7 @@ When an agent is based on a prompt from that repo:
 }
 ```
 
-2. The "Source" column in the [Available Agents](#available-agents-66) table links to the original source
+2. The "Source" column in the [Available Agents](#available-agents-73) table links to the original source
 3. Note the attribution in your PR description
 
 The original agency-agents format (`# Identity`, `# System Prompt`, `# Output Format`) must be adapted to our expertise-profile format (`## Expertise`, `## Workflow`, `## Quality Standards`).
@@ -336,7 +343,7 @@ The original agency-agents format (`# Identity`, `# System Prompt`, `# Output Fo
 3. Add `manifest.json` with all required fields
 4. Add `persona.json` with the expertise profile
 5. Add an entry to `agents/index.json`
-6. Update the [Available Agents](#available-agents-66) table in this README (sorted: Category, then Agent alphabetically)
+6. Update the [Available Agents](#available-agents-73) table in this README (sorted: Category, then Agent alphabetically)
 7. Submit a pull request
 
 For a detailed guide with annotated examples, see [TEMPLATE_EXAMPLE.md](TEMPLATE_EXAMPLE.md).

@@ -1,0 +1,10 @@
+{
+  "id": "workflow-architect",
+  "name": "Workflow Architect",
+  "version": "1.0.0",
+  "category": "development",
+  "description": "n8n workflow design, process-to-automation mapping, node selection, and workflow architecture planning",
+  "emoji": "📐",
+  "author": "freddy-schuetz",
+  "license": "MIT"
+}

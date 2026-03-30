@@ -1,0 +1,10 @@
+{
+  "id": "infrastructure-maintainer",
+  "name": "Infrastructure Maintainer",
+  "version": "1.0.0",
+  "category": "development",
+  "description": "VPS management, Docker operations, server monitoring, backup strategies, and system reliability",
+  "emoji": "🖥️",
+  "author": "freddy-schuetz",
+  "license": "MIT"
+}

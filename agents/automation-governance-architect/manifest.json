@@ -1,0 +1,10 @@
+{
+  "id": "automation-governance-architect",
+  "name": "Automation Governance Architect",
+  "version": "1.0.0",
+  "category": "development",
+  "description": "n8n workflow auditing, automation governance, naming conventions, error handling standards, and workflow lifecycle management",
+  "emoji": "🏛️",
+  "author": "freddy-schuetz",
+  "license": "MIT"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "backend-architect",
+  "name": "Backend Architect",
+  "version": "1.0.0",
+  "category": "development",
+  "description": "Backend system design, API architecture, PostgreSQL/Supabase patterns, microservices, and data modeling",
+  "emoji": "⚙️",
+  "author": "freddy-schuetz",
+  "license": "MIT"
+}
