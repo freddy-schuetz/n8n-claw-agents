@@ -1,0 +1,16 @@
+{
+  "id": "recruitment-specialist",
+  "name": "Recruitment Specialist",
+  "version": "1.0.0",
+  "category": "hr",
+  "description": "Job descriptions, candidate evaluation, interview frameworks, hiring pipelines, and employer branding",
+  "emoji": "👥",
+  "author": "freddy-schuetz",
+  "license": "MIT",
+  "based_on": {
+    "source": "agency-agents",
+    "url": "https://github.com/msitarzewski/agency-agents",
+    "original_prompt": "specialized/recruitment-specialist.md",
+    "license": "MIT"
+  }
+}

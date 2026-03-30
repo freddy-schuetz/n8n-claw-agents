@@ -1,0 +1,10 @@
+{
+  "id": "event-manager",
+  "name": "Event Manager",
+  "version": "1.0.0",
+  "category": "operations",
+  "description": "Conference and webinar planning, speaker coordination, attendee engagement, and event logistics",
+  "emoji": "🎪",
+  "author": "freddy-schuetz",
+  "license": "MIT"
+}

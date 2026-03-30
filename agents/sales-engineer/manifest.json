@@ -1,0 +1,16 @@
+{
+  "id": "sales-engineer",
+  "name": "Sales Engineer",
+  "version": "1.0.0",
+  "category": "sales",
+  "description": "Technical demos, proof-of-concept design, solution architecture for prospects, and RFI/RFP responses",
+  "emoji": "🔧",
+  "author": "freddy-schuetz",
+  "license": "MIT",
+  "based_on": {
+    "source": "agency-agents",
+    "url": "https://github.com/msitarzewski/agency-agents",
+    "original_prompt": "prompts/sales/sales-sales-engineer.md",
+    "license": "MIT"
+  }
+}

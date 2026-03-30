@@ -1,0 +1,10 @@
+{
+  "id": "contract-specialist",
+  "name": "Contract Specialist",
+  "version": "1.0.0",
+  "category": "operations",
+  "description": "NDA drafting, SLA negotiation, vendor agreements, IP protection, and contract review",
+  "emoji": "📑",
+  "author": "freddy-schuetz",
+  "license": "MIT"
+}

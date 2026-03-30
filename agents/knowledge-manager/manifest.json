@@ -1,0 +1,10 @@
+{
+  "id": "knowledge-manager",
+  "name": "Knowledge Manager",
+  "version": "1.0.0",
+  "category": "education",
+  "description": "Documentation strategy, knowledge base architecture, information findability, and wiki structure",
+  "emoji": "🗂️",
+  "author": "freddy-schuetz",
+  "license": "MIT"
+}

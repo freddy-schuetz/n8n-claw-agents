@@ -1,0 +1,16 @@
+{
+  "id": "corporate-training-designer",
+  "name": "Corporate Training Designer",
+  "version": "1.0.0",
+  "category": "hr",
+  "description": "Learning program design, onboarding frameworks, skill assessments, and workshop facilitation",
+  "emoji": "🎓",
+  "author": "freddy-schuetz",
+  "license": "MIT",
+  "based_on": {
+    "source": "agency-agents",
+    "url": "https://github.com/msitarzewski/agency-agents",
+    "original_prompt": "specialized/corporate-training-designer.md",
+    "license": "MIT"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "id": "market-research-analyst",
+  "name": "Market Research Analyst",
+  "version": "1.0.0",
+  "category": "product",
+  "description": "Survey design, quantitative analysis, market sizing, customer segmentation, and conjoint analysis",
+  "emoji": "📊",
+  "author": "freddy-schuetz",
+  "license": "MIT"
+}

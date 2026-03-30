@@ -4,27 +4,30 @@ Expert agent personas for [n8n-claw](https://github.com/freddy-schuetz/n8n-claw)
 
 ---
 
-## Available Agents (73)
+## Available Agents (100)
 
 **How to read the table:** *Description* explains what the agent specializes in. *When to Use* gives practical scenarios for delegation. *Skills* shows which [MCP Skills](https://github.com/freddy-schuetz/n8n-claw-templates) pair well with the agent — installing them gives the sub-agent additional tools to work with ("—" = no specific skill pairing). *Source* links to the original prompt if the persona was adapted from [agency-agents](https://github.com/msitarzewski/agency-agents), or shows the author for original agents.
 
-### Analytics (7)
+### Analytics (9)
 
 | Agent | Description | When to Use | Skills | Source |
 |-------|-------------|-------------|--------|--------|
 | [Ads Performance Analyst](agents/ads-performance-analyst/) | Multi-platform ads performance reporting and analysis: Google Ads, Meta, LinkedIn, TikTok — ROAS, CPA, CTR trends, anomaly detection, and actionable optimization recommendations | Campaign audits, ROAS optimization, cross-platform reporting | Google Analytics, Google Ads | [agency-agents](https://github.com/msitarzewski/agency-agents/blob/main/paid-media/paid-media-auditor.md) |
+| Conversion Analyst | Funnel analysis, A/B test evaluation, heatmap interpretation, and conversion rate optimization | CRO audits, A/B test analysis, funnel optimization | — | [@freddy-schuetz](https://github.com/freddy-schuetz) |
 | [Data Analyst](agents/data-analyst/) | Data analysis, pattern recognition, structured reports, KPI interpretation | KPI dashboards, trend analysis, data-driven reports | Google Analytics | [@freddy-schuetz](https://github.com/freddy-schuetz) |
 | [Finance Tracker](agents/finance-tracker/) | Personal and business expense tracking, budget monitoring, transaction categorization, and financial health reports | Expense tracking, budget monitoring, transaction categorization | KontoFlux, Exchange Rates, Crypto Prices | [agency-agents](https://github.com/msitarzewski/agency-agents/blob/main/support/support-finance-tracker.md) |
 | [Financial Analyst](agents/financial-analyst/) | Financial modeling, P&L analysis, cash flow forecasting, unit economics, budget planning, and business case development | P&L analysis, cash flow forecasting, business cases | KontoFlux, Exchange Rates, Crypto Prices | [agency-agents](https://github.com/msitarzewski/agency-agents/blob/main/support/support-finance-tracker.md) |
 | [Performance Benchmarker](agents/performance-benchmarker/) | Load testing, stress testing, Core Web Vitals optimization, and performance regression detection | Load testing, Core Web Vitals, performance regressions | Website Check | [agency-agents](https://github.com/msitarzewski/agency-agents/blob/main/testing/testing-performance-benchmarker.md) |
 | [Pipeline Analyst](agents/pipeline-analyst/) | Sales pipeline health diagnostics, deal velocity analysis, forecast accuracy, and revenue operations | Pipeline health checks, forecast accuracy, deal velocity | NocoDB CRM | [agency-agents](https://github.com/msitarzewski/agency-agents/blob/main/sales/sales-pipeline-analyst.md) |
+| Supply Chain Analyst | Inventory optimization, logistics analysis, demand forecasting, and supplier performance tracking | Inventory management, logistics planning, demand forecasting | — | [agency-agents](https://github.com/msitarzewski/agency-agents) |
 | [Workflow Optimizer](agents/workflow-optimizer/) | Process analysis, bottleneck identification, automation opportunities, and workflow efficiency improvements | Process bottlenecks, automation opportunities, efficiency audits | — | [agency-agents](https://github.com/msitarzewski/agency-agents/blob/main/testing/testing-workflow-optimizer.md) |
 
-### Creative (7)
+### Creative (8)
 
 | Agent | Description | When to Use | Skills | Source |
 |-------|-------------|-------------|--------|--------|
 | [Brainstorm Coach](agents/brainstorm-coach/) | Structured brainstorming, creative ideation, perspective shifts, and innovative problem-solving | Idea generation, creative blocks, perspective shifts | — | [@freddy-schuetz](https://github.com/freddy-schuetz) |
+| Design System Manager | Component documentation, design tokens, cross-team adoption, and Figma/Storybook governance | Design system setup, component libraries, design ops | — | [@freddy-schuetz](https://github.com/freddy-schuetz) |
 | [Image Prompt Engineer](agents/image-prompt-engineer/) | Crafting detailed prompts for AI image generation — photography terminology, lighting, composition, and platform-specific optimization | AI image prompts for Midjourney, DALL-E, Stable Diffusion | — | [agency-agents](https://github.com/msitarzewski/agency-agents/blob/main/design/design-image-prompt-engineer.md) |
 | [Podcast Strategist](agents/podcast-strategist/) | Podcast concept development, show format design, episode planning, audience growth, podcast SEO, and content repurposing | Show concept, episode planning, podcast growth | — | [agency-agents](https://github.com/msitarzewski/agency-agents/blob/main/marketing/marketing-podcast-strategist.md) |
 | [UI Designer](agents/ui-designer/) | Visual design systems, component libraries, pixel-perfect interfaces, and dark mode theming | Interface design, component libraries, dark mode theming | — | [agency-agents](https://github.com/msitarzewski/agency-agents/blob/main/design/design-ui-designer.md) |
@@ -32,7 +35,7 @@ Expert agent personas for [n8n-claw](https://github.com/freddy-schuetz/n8n-claw)
 | [Video Scriptwriter](agents/video-scriptwriter/) | YouTube scripts, explainer videos, ad scripts, video hooks, storytelling structure, and CTA design for video | YouTube scripts, explainer videos, ad scripts | — | [agency-agents](https://github.com/msitarzewski/agency-agents/blob/main/marketing/marketing-video-optimization-specialist.md) |
 | [Visual Storyteller](agents/visual-storyteller/) | Visual narratives, infographic design, data visualization, and multimedia content strategy | Infographic design, data visualization, visual narratives | — | [agency-agents](https://github.com/msitarzewski/agency-agents/blob/main/design/design-visual-storyteller.md) |
 
-### Development (22)
+### Development (25)
 
 | Agent | Description | When to Use | Skills | Source |
 |-------|-------------|-------------|--------|--------|
@@ -42,6 +45,7 @@ Expert agent personas for [n8n-claw](https://github.com/freddy-schuetz/n8n-claw)
 | [API Tester](agents/api-tester/) | API testing and validation — functional, performance, security, and contract testing for REST and GraphQL | API validation, contract testing, security testing | — | [agency-agents](https://github.com/msitarzewski/agency-agents/blob/main/testing/testing-api-tester.md) |
 | [Automation Governance Architect](agents/automation-governance-architect/) | n8n workflow auditing, automation governance, naming conventions, error handling standards, and workflow lifecycle management | Workflow audits, automation standards, governance frameworks | — | [@freddy-schuetz](https://github.com/freddy-schuetz) |
 | [Backend Architect](agents/backend-architect/) | Backend system design, API architecture, PostgreSQL/Supabase patterns, microservices, and data modeling | API design, database modeling, Supabase/PostgREST patterns | — | [@freddy-schuetz](https://github.com/freddy-schuetz) |
+| CMS Developer | WordPress, headless CMS, content modeling, theme development, and CMS migration | CMS setup, content migration, headless architecture | — | [agency-agents](https://github.com/msitarzewski/agency-agents) |
 | [Code Reviewer](agents/code-reviewer/) | Constructive code reviews focused on correctness, security, maintainability, and performance | PR reviews, code quality gates, security review | GitHub | [agency-agents](https://github.com/msitarzewski/agency-agents/blob/main/engineering/engineering-code-reviewer.md) |
 | [Data Engineer](agents/data-engineer/) | ETL/ELT pipelines, data lakehouse architecture, data quality, and streaming systems | ETL/ELT pipelines, data lakehouse, streaming systems | — | [agency-agents](https://github.com/msitarzewski/agency-agents/blob/main/engineering/engineering-data-engineer.md) |
 | [Database Optimizer](agents/database-optimizer/) | Schema design, query optimization, indexing strategies, and performance tuning for PostgreSQL and MySQL | Slow query debugging, schema design, index tuning | — | [agency-agents](https://github.com/msitarzewski/agency-agents/blob/main/engineering/engineering-database-optimizer.md) |
@@ -51,6 +55,8 @@ Expert agent personas for [n8n-claw](https://github.com/freddy-schuetz/n8n-claw)
 | [Incident Commander](agents/incident-commander/) | Production incident management, severity classification, blameless post-mortems, and on-call process design | Production incidents, severity triage, blameless post-mortems | — | [agency-agents](https://github.com/msitarzewski/agency-agents/blob/main/engineering/engineering-incident-response-commander.md) |
 | [Infrastructure Maintainer](agents/infrastructure-maintainer/) | VPS management, Docker operations, server monitoring, backup strategies, and system reliability | VPS maintenance, Docker ops, backup verification, SSL certs | — | [@freddy-schuetz](https://github.com/freddy-schuetz) |
 | [MCP Developer](agents/mcp-developer/) | MCP server development, tool design, n8n-claw skill creation, and API-to-MCP integration | MCP server building, skill development, API-to-tool integration | — | [@freddy-schuetz](https://github.com/freddy-schuetz) |
+| Mobile Developer | iOS and Android development, React Native, Flutter, responsive mobile UX, and app store deployment | Mobile apps, cross-platform development, app store submissions | — | [agency-agents](https://github.com/msitarzewski/agency-agents) |
+| QA Strategist | Test strategy, coverage mapping, regression planning, bug triage, and quality gate design | Test planning, QA processes, release quality | — | [@freddy-schuetz](https://github.com/freddy-schuetz) |
 | [Rapid Prototyper](agents/rapid-prototyper/) | Ultra-fast MVP development, hypothesis validation, and prototype-to-production transition planning | Quick MVPs, hackathon projects, hypothesis validation | GitHub | [agency-agents](https://github.com/msitarzewski/agency-agents/blob/main/engineering/engineering-rapid-prototyper.md) |
 | [Security Auditor](agents/security-auditor/) | Threat modeling, OWASP Top 10, secure code review, vulnerability assessment, and security compliance | Threat modeling, vulnerability assessment, OWASP audits | IP Geolocation, Website Check | [agency-agents](https://github.com/msitarzewski/agency-agents/blob/main/engineering/engineering-security-engineer.md) |
 | [Security Engineer](agents/security-engineer/) | Security architecture, authentication systems, encryption implementation, infrastructure hardening, and secure defaults | Auth system design, encryption setup, infrastructure hardening | — | [@freddy-schuetz](https://github.com/freddy-schuetz) |
@@ -59,13 +65,15 @@ Expert agent personas for [n8n-claw](https://github.com/freddy-schuetz/n8n-claw)
 | [Technical Writer](agents/technical-writer/) | Developer documentation, API references, README files, tutorials, and technical guides | API docs, README files, tutorials, technical guides | GitHub, Wikipedia, PDF Tools +2 more | [agency-agents](https://github.com/msitarzewski/agency-agents/blob/main/engineering/engineering-technical-writer.md) |
 | [Workflow Architect](agents/workflow-architect/) | n8n workflow design, process-to-automation mapping, node selection, and workflow architecture planning | Process-to-automation mapping, workflow blueprints, node selection | — | [@freddy-schuetz](https://github.com/freddy-schuetz) |
 
-### Marketing (13)
+### Marketing (16)
 
 | Agent | Description | When to Use | Skills | Source |
 |-------|-------------|-------------|--------|--------|
 | [Ad Copywriter](agents/ad-copywriter/) | PPC ad copy, landing page copywriting, conversion optimization, direct response, and A/B testing frameworks | PPC copy, landing pages, A/B test variants | Google Ads, QR Code | [agency-agents](https://github.com/msitarzewski/agency-agents/blob/main/paid-media/paid-media-ad-creative-strategist.md) |
+| App Store Optimizer | ASO strategy, keyword research, screenshot optimization, review management, and A/B testing | App store rankings, listing optimization, review strategy | — | [agency-agents](https://github.com/msitarzewski/agency-agents) |
 | [Brand Strategist](agents/brand-strategist/) | Brand identity, positioning strategy, messaging hierarchy, tone of voice, brand architecture, and brand audits | Brand identity, positioning, tone of voice, brand audits | — | [agency-agents](https://github.com/msitarzewski/agency-agents/blob/main/design/design-brand-guardian.md) |
 | [Content Creator](agents/content-creator/) | Text creation, social media content, blog articles, marketing copy | Blog posts, social media content, marketing copy | Wikipedia, DeepL, News, TMDB +4 more | [@freddy-schuetz](https://github.com/freddy-schuetz) |
+| Demand Generation Specialist | Lead magnets, funnel design, MQL/SQL optimization, nurture campaigns, and attribution modeling | Lead generation, funnel optimization, nurture sequences | — | [@freddy-schuetz](https://github.com/freddy-schuetz) |
 | [Developer Advocate](agents/developer-advocate/) | Developer relations, DX optimization, technical content creation, and community building | DevRel content, DX optimization, community building | GitHub, Hacker News | [agency-agents](https://github.com/msitarzewski/agency-agents/blob/main/specialized/specialized-developer-advocate.md) |
 | [Growth Hacker](agents/growth-hacker/) | Growth experiments, viral loops, funnel optimization, and scalable user acquisition strategies | Growth experiments, funnel optimization, viral loops | Google Analytics, Google Ads | [agency-agents](https://github.com/msitarzewski/agency-agents/blob/main/marketing/marketing-growth-hacker.md) |
 | [Instagram Curator](agents/instagram-curator/) | Instagram visual strategy, grid aesthetics, multi-format content (Reels, Stories, Posts), and social commerce | Grid strategy, Reels/Stories, social commerce | QR Code | [agency-agents](https://github.com/msitarzewski/agency-agents/blob/main/marketing/marketing-instagram-curator.md) |
@@ -76,13 +84,20 @@ Expert agent personas for [n8n-claw](https://github.com/freddy-schuetz/n8n-claw)
 | [Social Media Strategist](agents/social-media-strategist/) | Cross-platform social media strategy, content calendars, community management, and engagement optimization | Cross-platform strategy, content calendars, community management | News (NewsAPI), TMDB | [agency-agents](https://github.com/msitarzewski/agency-agents/blob/main/marketing/marketing-social-media-strategist.md) |
 | [TikTok Strategist](agents/tiktok-strategist/) | TikTok content strategy, algorithm optimization, creator partnerships, and short-form video growth | Short-form video, algorithm optimization, creator partnerships | — | [agency-agents](https://github.com/msitarzewski/agency-agents/blob/main/marketing/marketing-tiktok-strategist.md) |
 | [Twitter Strategist](agents/twitter-strategist/) | Twitter/X content strategy, thread writing, engagement tactics, trend riding, and audience growth | Thread writing, trend riding, audience growth | News (NewsAPI), Hacker News | [agency-agents](https://github.com/msitarzewski/agency-agents/blob/main/prompts/marketing/marketing-twitter-strategist.md) |
+| Video Optimization Specialist | YouTube SEO, thumbnail strategy, retention analysis, video distribution, and content repurposing | YouTube growth, video SEO, content repurposing | — | [agency-agents](https://github.com/msitarzewski/agency-agents) |
 
-### Operations (10)
+### Operations (16)
 
 | Agent | Description | When to Use | Skills | Source |
 |-------|-------------|-------------|--------|--------|
+| Accounting Specialist | Invoice processing, bookkeeping, tax categorization, reconciliation, and financial reporting | Expense processing, tax prep, bookkeeping | — | [@freddy-schuetz](https://github.com/freddy-schuetz) |
+| Community Manager | Community health metrics, moderation guidelines, engagement campaigns, and member retention | Community building, moderation, engagement strategy | — | [@freddy-schuetz](https://github.com/freddy-schuetz) |
+| Compliance Officer | Risk assessment, audit trails, regulatory mapping, internal controls, and SOC2/ISO preparation | Compliance audits, risk registers, regulatory requirements | — | [agency-agents](https://github.com/msitarzewski/agency-agents) |
+| Contract Specialist | NDA drafting, SLA negotiation, vendor agreements, IP protection, and contract review | Contract review, SLA setup, vendor agreements | — | [@freddy-schuetz](https://github.com/freddy-schuetz) |
+| Customer Success Manager | Churn prevention, health scoring, renewal strategy, user adoption, and customer onboarding | Customer retention, onboarding, churn prevention | — | [@freddy-schuetz](https://github.com/freddy-schuetz) |
 | [Customer Support Coach](agents/customer-support-coach/) | Support response frameworks, escalation handling, FAQ creation, tone calibration, de-escalation, and CSAT improvement | Support frameworks, escalation handling, CSAT improvement | Email IMAP/SMTP | [agency-agents](https://github.com/msitarzewski/agency-agents/blob/main/support/support-support-responder.md) |
 | [Email Writer](agents/email-writer/) | Professional emails, business letters, and correspondence in German and English | Professional emails, business correspondence | Email IMAP/SMTP, Gmail, DeepL | [@freddy-schuetz](https://github.com/freddy-schuetz) |
+| Event Manager | Conference and webinar planning, speaker coordination, attendee engagement, and event logistics | Event planning, webinar setup, conference organization | — | [@freddy-schuetz](https://github.com/freddy-schuetz) |
 | [Executive Summarizer](agents/executive-summarizer/) | Condensing long texts, reports, and meetings into concise executive briefings | Meeting summaries, report condensation, executive briefings | Vexa Meetings, Nextcloud Files, PDF Tools | [agency-agents](https://github.com/msitarzewski/agency-agents/blob/main/support/support-executive-summary-generator.md) |
 | [Legal Advisor](agents/legal-advisor/) | GDPR/DSGVO compliance, privacy policies, terms of service, and EU regulatory guidance | GDPR compliance, privacy policies, terms of service | PDF Tools | [agency-agents](https://github.com/msitarzewski/agency-agents/blob/main/support/support-legal-compliance-checker.md) |
 | [Meeting Assistant](agents/meeting-assistant/) | Structured meeting protocols, transcript processing, action items, and decision tracking | Meeting protocols, transcript processing, action items | Vexa Meetings, CalDAV, Google Calendar +2 more | [@freddy-schuetz](https://github.com/freddy-schuetz) |
@@ -92,34 +107,61 @@ Expert agent personas for [n8n-claw](https://github.com/freddy-schuetz/n8n-claw)
 | [Translator](agents/translator/) | Context-aware translations between German, English, and French with tone adaptation | German/English/French translations, tone adaptation | DeepL Translate, Dictionary | [@freddy-schuetz](https://github.com/freddy-schuetz) |
 | [Travel Planner](agents/travel-planner/) | Trip planning, itinerary building, transport connections, weather-aware scheduling, and travel logistics | Trip planning, route optimization, weather-aware scheduling | Deutsche Bahn, Wiener Linien, Weather, Public Holidays +5 more | [@freddy-schuetz](https://github.com/freddy-schuetz) |
 
-### Product (4)
+### Product (6)
 
 | Agent | Description | When to Use | Skills | Source |
 |-------|-------------|-------------|--------|--------|
+| Behavioral Nudge Designer | Choice architecture, nudge design, conversion psychology, habit formation, and ethical persuasion | UX psychology, conversion optimization, onboarding flows | — | [agency-agents](https://github.com/msitarzewski/agency-agents) |
 | [Feedback Synthesizer](agents/feedback-synthesizer/) | User feedback analysis across channels — theme extraction, sentiment scoring, and actionable product insights | User feedback analysis, theme extraction, sentiment scoring | NocoDB CRM | [agency-agents](https://github.com/msitarzewski/agency-agents/blob/main/product/product-feedback-synthesizer.md) |
+| Market Research Analyst | Survey design, quantitative analysis, market sizing, customer segmentation, and conjoint analysis | Market sizing, customer surveys, segment analysis | — | [@freddy-schuetz](https://github.com/freddy-schuetz) |
 | [Product Manager](agents/product-manager/) | Feature prioritization, roadmap planning, user stories, sprint planning, and product strategy | Feature prioritization, roadmap planning, user stories | Notion, Todoist, Vikunja | [agency-agents](https://github.com/msitarzewski/agency-agents/blob/main/product/product-manager.md) |
 | [Product Strategist](agents/product-strategist/) | Product vision, market positioning, competitive differentiation, go-to-market strategy, and pricing models | Market positioning, competitive analysis, GTM strategy | Google Analytics, NocoDB CRM, News | [agency-agents](https://github.com/msitarzewski/agency-agents/blob/main/prompts/product/product-manager.md) |
 | [Sprint Prioritizer](agents/sprint-prioritizer/) | Sprint planning, backlog prioritization with RICE/MoSCoW/Kano, and team velocity optimization | Backlog grooming, RICE/MoSCoW scoring, velocity optimization | Todoist, Vikunja, Notion | [agency-agents](https://github.com/msitarzewski/agency-agents/blob/main/product/product-sprint-prioritizer.md) |
 
-### Research (4)
+### Research (5)
 
 | Agent | Description | When to Use | Skills | Source |
 |-------|-------------|-------------|--------|--------|
+| Academic Researcher | Literature review, citation management, research methodology, and peer review preparation | Academic papers, literature reviews, research methodology | — | [@freddy-schuetz](https://github.com/freddy-schuetz) |
 | [Competitive Analyst](agents/competitive-analyst/) | Competitive intelligence, SWOT analysis, market positioning, feature comparison matrices, and win/loss analysis | SWOT analysis, market positioning, feature comparisons | News (NewsAPI), Country Info | [@freddy-schuetz](https://github.com/freddy-schuetz) |
 | [Research Expert](agents/research-expert/) | Deep web research, fact-checking, source evaluation | Deep-dive research, fact-checking, source evaluation | Wikipedia, Hacker News, News, Country Info | [@freddy-schuetz](https://github.com/freddy-schuetz) |
 | [Trend Researcher](agents/trend-researcher/) | Market intelligence, emerging trend identification, competitive analysis, and technology scouting | Emerging trends, market intelligence, technology scouting | News (NewsAPI), Hacker News | [agency-agents](https://github.com/msitarzewski/agency-agents/blob/main/product/product-trend-researcher.md) |
 | [UX Researcher](agents/ux-researcher/) | User research methods, usability testing, persona development, jobs-to-be-done, journey mapping, and insight synthesis | Usability testing, persona development, journey mapping | — | [agency-agents](https://github.com/msitarzewski/agency-agents/blob/main/design/design-ux-researcher.md) |
 
-### Sales (6)
+### Sales (8)
 
 | Agent | Description | When to Use | Skills | Source |
 |-------|-------------|-------------|--------|--------|
 | [Account Strategist](agents/account-strategist/) | Post-sale account expansion, stakeholder mapping, QBR facilitation, and net revenue retention | Account expansion, stakeholder mapping, QBR facilitation | NocoDB CRM | [agency-agents](https://github.com/msitarzewski/agency-agents/blob/main/sales/sales-account-strategist.md) |
 | [Discovery Coach](agents/discovery-coach/) | Sales discovery methodology coaching — SPIN Selling, Gap Selling, and Challenger question frameworks | Sales discovery coaching, SPIN/Gap/Challenger frameworks | — | [agency-agents](https://github.com/msitarzewski/agency-agents/blob/main/sales/sales-discovery-coach.md) |
 | [Outbound Strategist](agents/outbound-strategist/) | Signal-based outbound prospecting, ICP definition, multi-channel sequences, and personalized outreach | ICP definition, cold outreach sequences, prospecting | Email IMAP/SMTP, Gmail, NocoDB CRM | [agency-agents](https://github.com/msitarzewski/agency-agents/blob/main/sales/sales-outbound-strategist.md) |
+| Partnership Manager | Channel strategy, partner onboarding, co-marketing, ecosystem development, and referral programs | Partner programs, channel sales, co-marketing | — | [@freddy-schuetz](https://github.com/freddy-schuetz) |
 | [Proposal Writer](agents/proposal-writer/) | Business proposals, RFP responses, grant applications, pitch narratives, executive summaries, and win theme development | RFP responses, business proposals, pitch narratives | PDF Tools | [agency-agents](https://github.com/msitarzewski/agency-agents/blob/main/sales/sales-proposal-strategist.md) |
 | [Sales Coach](agents/sales-coach/) | Sales rep development, pipeline review facilitation, call coaching, and forecast discipline | Rep development, call coaching, pipeline reviews | — | [agency-agents](https://github.com/msitarzewski/agency-agents/blob/main/sales/sales-coach.md) |
+| Sales Engineer | Technical demos, proof-of-concept design, solution architecture for prospects, and RFI/RFP responses | Technical sales support, POC design, demo preparation | — | [agency-agents](https://github.com/msitarzewski/agency-agents) |
 | [Sales Strategist](agents/sales-strategist/) | B2B/B2C sales strategy, lead qualification, pipeline management, objection handling, and deal closing frameworks | Sales strategy, lead qualification, deal closing frameworks | NocoDB CRM | [agency-agents](https://github.com/msitarzewski/agency-agents/blob/main/sales/sales-deal-strategist.md) |
+
+### HR (3)
+
+| Agent | Description | When to Use | Skills | Source |
+|-------|-------------|-------------|--------|--------|
+| Corporate Training Designer | Learning program design, onboarding frameworks, skill assessments, and workshop facilitation | Training programs, onboarding design, skill development | — | [agency-agents](https://github.com/msitarzewski/agency-agents) |
+| HR Strategist | Employee retention, compensation planning, performance management frameworks, and organizational culture | Retention strategy, comp planning, performance reviews | — | [@freddy-schuetz](https://github.com/freddy-schuetz) |
+| Recruitment Specialist | Job descriptions, candidate evaluation, interview frameworks, hiring pipelines, and employer branding | Hiring process, job posts, interview prep | — | [agency-agents](https://github.com/msitarzewski/agency-agents) |
+
+### Communications (2)
+
+| Agent | Description | When to Use | Skills | Source |
+|-------|-------------|-------------|--------|--------|
+| Communications Strategist | Crisis communication, internal comms, stakeholder messaging, PR coordination, and media relations | Crisis response, internal announcements, press releases | — | [@freddy-schuetz](https://github.com/freddy-schuetz) |
+| Investor Relations Manager | Investor updates, pitch decks, financial narratives, funding round preparation, and shareholder communications | Fundraising, investor updates, pitch preparation | — | [@freddy-schuetz](https://github.com/freddy-schuetz) |
+
+### Education (2)
+
+| Agent | Description | When to Use | Skills | Source |
+|-------|-------------|-------------|--------|--------|
+| Course Designer | Curriculum structure, learning objectives, assessment design, e-learning content, and certification programs | Online courses, workshops, certification programs | — | [@freddy-schuetz](https://github.com/freddy-schuetz) |
+| Knowledge Manager | Documentation strategy, knowledge base architecture, information findability, and wiki structure | Knowledge base setup, documentation audits, wiki planning | — | [@freddy-schuetz](https://github.com/freddy-schuetz) |
 
 ---
 
@@ -214,7 +256,7 @@ agents/
 | `license` | yes | License identifier (e.g. `MIT`) |
 | `based_on` | no | Attribution object (see [Attribution](#attribution)) |
 
-**Categories:** `analytics`, `creative`, `development`, `marketing`, `operations`, `product`, `research`, `sales`
+**Categories:** `analytics`, `communications`, `creative`, `development`, `education`, `hr`, `marketing`, `operations`, `product`, `research`, `sales`
 
 ### persona.json
 
@@ -327,7 +369,7 @@ When an agent is based on a prompt from that repo:
 }
 ```
 
-2. The "Source" column in the [Available Agents](#available-agents-73) table links to the original source
+2. The "Source" column in the [Available Agents](#available-agents-100) table links to the original source
 3. Note the attribution in your PR description
 
 The original agency-agents format (`# Identity`, `# System Prompt`, `# Output Format`) must be adapted to our expertise-profile format (`## Expertise`, `## Workflow`, `## Quality Standards`).
@@ -343,7 +385,7 @@ The original agency-agents format (`# Identity`, `# System Prompt`, `# Output Fo
 3. Add `manifest.json` with all required fields
 4. Add `persona.json` with the expertise profile
 5. Add an entry to `agents/index.json`
-6. Update the [Available Agents](#available-agents-73) table in this README (sorted: Category, then Agent alphabetically)
+6. Update the [Available Agents](#available-agents-100) table in this README (sorted: Category, then Agent alphabetically)
 7. Submit a pull request
 
 For a detailed guide with annotated examples, see [TEMPLATE_EXAMPLE.md](TEMPLATE_EXAMPLE.md).

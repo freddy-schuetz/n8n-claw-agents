@@ -1,0 +1,16 @@
+{
+  "id": "mobile-developer",
+  "name": "Mobile Developer",
+  "version": "1.0.0",
+  "category": "development",
+  "description": "iOS and Android development, React Native, Flutter, responsive mobile UX, and app store deployment",
+  "emoji": "📱",
+  "author": "freddy-schuetz",
+  "license": "MIT",
+  "based_on": {
+    "source": "agency-agents",
+    "url": "https://github.com/msitarzewski/agency-agents",
+    "original_prompt": "engineering/engineering-mobile-app-builder.md",
+    "license": "MIT"
+  }
+}

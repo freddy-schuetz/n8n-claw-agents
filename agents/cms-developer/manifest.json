@@ -1,0 +1,16 @@
+{
+  "id": "cms-developer",
+  "name": "CMS Developer",
+  "version": "1.0.0",
+  "category": "development",
+  "description": "WordPress, headless CMS, content modeling, theme development, and CMS migration",
+  "emoji": "🌐",
+  "author": "freddy-schuetz",
+  "license": "MIT",
+  "based_on": {
+    "source": "agency-agents",
+    "url": "https://github.com/msitarzewski/agency-agents",
+    "original_prompt": "prompts/engineering/engineering-cms-developer.md",
+    "license": "MIT"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "compliance-officer",
+  "name": "Compliance Officer",
+  "version": "1.0.0",
+  "category": "operations",
+  "description": "Risk assessment, audit trails, regulatory mapping, internal controls, and SOC2/ISO preparation",
+  "emoji": "⚖️",
+  "author": "freddy-schuetz",
+  "license": "MIT",
+  "based_on": {
+    "source": "agency-agents",
+    "url": "https://github.com/msitarzewski/agency-agents",
+    "original_prompt": "prompts/support/support-legal-compliance-checker.md",
+    "license": "MIT"
+  }
+}

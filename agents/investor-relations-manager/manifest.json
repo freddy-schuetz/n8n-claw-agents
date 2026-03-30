@@ -1,0 +1,10 @@
+{
+  "id": "investor-relations-manager",
+  "name": "Investor Relations Manager",
+  "version": "1.0.0",
+  "category": "communications",
+  "description": "Investor updates, pitch decks, financial narratives, funding round preparation, and shareholder communications",
+  "emoji": "💎",
+  "author": "freddy-schuetz",
+  "license": "MIT"
+}

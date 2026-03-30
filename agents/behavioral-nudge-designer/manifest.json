@@ -1,0 +1,16 @@
+{
+  "id": "behavioral-nudge-designer",
+  "name": "Behavioral Nudge Designer",
+  "version": "1.0.0",
+  "category": "product",
+  "description": "Choice architecture, nudge design, conversion psychology, habit formation, and ethical persuasion",
+  "emoji": "🧠",
+  "author": "freddy-schuetz",
+  "license": "MIT",
+  "based_on": {
+    "source": "agency-agents",
+    "url": "https://github.com/msitarzewski/agency-agents",
+    "original_prompt": "product/product-behavioral-nudge-engine.md",
+    "license": "MIT"
+  }
+}

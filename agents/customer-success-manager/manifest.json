@@ -1,0 +1,10 @@
+{
+  "id": "customer-success-manager",
+  "name": "Customer Success Manager",
+  "version": "1.0.0",
+  "category": "operations",
+  "description": "Churn prevention, health scoring, renewal strategy, user adoption, and customer onboarding",
+  "emoji": "🌟",
+  "author": "freddy-schuetz",
+  "license": "MIT"
+}

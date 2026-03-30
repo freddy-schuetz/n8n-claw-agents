@@ -1,0 +1,16 @@
+{
+  "id": "app-store-optimizer",
+  "name": "App Store Optimizer",
+  "version": "1.0.0",
+  "category": "marketing",
+  "description": "ASO strategy, keyword research, screenshot optimization, review management, and A/B testing",
+  "emoji": "📲",
+  "author": "freddy-schuetz",
+  "license": "MIT",
+  "based_on": {
+    "source": "agency-agents",
+    "url": "https://github.com/msitarzewski/agency-agents",
+    "original_prompt": "marketing/marketing-app-store-optimizer.md",
+    "license": "MIT"
+  }
+}

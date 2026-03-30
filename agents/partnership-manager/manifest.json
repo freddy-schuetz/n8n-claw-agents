@@ -1,0 +1,10 @@
+{
+  "id": "partnership-manager",
+  "name": "Partnership Manager",
+  "version": "1.0.0",
+  "category": "sales",
+  "description": "Channel strategy, partner onboarding, co-marketing, ecosystem development, and referral programs",
+  "emoji": "🤝",
+  "author": "freddy-schuetz",
+  "license": "MIT"
+}

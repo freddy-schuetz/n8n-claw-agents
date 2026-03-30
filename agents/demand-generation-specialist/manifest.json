@@ -1,0 +1,10 @@
+{
+  "id": "demand-generation-specialist",
+  "name": "Demand Generation Specialist",
+  "version": "1.0.0",
+  "category": "marketing",
+  "description": "Lead magnets, funnel design, MQL/SQL optimization, nurture campaigns, and attribution modeling",
+  "emoji": "🎯",
+  "author": "freddy-schuetz",
+  "license": "MIT"
+}

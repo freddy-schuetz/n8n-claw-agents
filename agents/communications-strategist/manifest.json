@@ -1,0 +1,10 @@
+{
+  "id": "communications-strategist",
+  "name": "Communications Strategist",
+  "version": "1.0.0",
+  "category": "communications",
+  "description": "Crisis communication, internal comms, stakeholder messaging, PR coordination, and media relations",
+  "emoji": "📢",
+  "author": "freddy-schuetz",
+  "license": "MIT"
+}

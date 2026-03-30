@@ -1,0 +1,10 @@
+{
+  "id": "course-designer",
+  "name": "Course Designer",
+  "version": "1.0.0",
+  "category": "education",
+  "description": "Curriculum structure, learning objectives, assessment design, e-learning content, and certification programs",
+  "emoji": "📚",
+  "author": "freddy-schuetz",
+  "license": "MIT"
+}

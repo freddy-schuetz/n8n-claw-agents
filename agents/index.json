@@ -3,6 +3,14 @@
   "format_version": 1,
   "agents": [
     {
+      "id": "academic-researcher",
+      "name": "Academic Researcher",
+      "category": "research",
+      "description": "Literature review, citation management, research methodology, and peer review preparation",
+      "emoji": "🎓",
+      "version": "1.0.0"
+    },
+    {
       "id": "accessibility-auditor",
       "name": "Accessibility Auditor",
       "category": "development",
@@ -16,6 +24,14 @@
       "category": "sales",
       "description": "Post-sale account expansion, stakeholder mapping, QBR facilitation, and net revenue retention",
       "emoji": "🤝",
+      "version": "1.0.0"
+    },
+    {
+      "id": "accounting-specialist",
+      "name": "Accounting Specialist",
+      "category": "operations",
+      "description": "Invoice processing, bookkeeping, tax categorization, reconciliation, and financial reporting",
+      "emoji": "🧾",
       "version": "1.0.0"
     },
     {
@@ -59,6 +75,14 @@
       "version": "1.0.0"
     },
     {
+      "id": "app-store-optimizer",
+      "name": "App Store Optimizer",
+      "category": "marketing",
+      "description": "ASO strategy, keyword research, screenshot optimization, review management, and A/B testing",
+      "emoji": "📲",
+      "version": "1.0.0"
+    },
+    {
       "id": "automation-governance-architect",
       "name": "Automation Governance Architect",
       "category": "development",
@@ -72,6 +96,14 @@
       "category": "development",
       "description": "Backend system design, API architecture, PostgreSQL/Supabase patterns, microservices, and data modeling",
       "emoji": "⚙️",
+      "version": "1.0.0"
+    },
+    {
+      "id": "behavioral-nudge-designer",
+      "name": "Behavioral Nudge Designer",
+      "category": "product",
+      "description": "Choice architecture, nudge design, conversion psychology, habit formation, and ethical persuasion",
+      "emoji": "🧠",
       "version": "1.0.0"
     },
     {
@@ -91,11 +123,35 @@
       "version": "1.0.0"
     },
     {
+      "id": "cms-developer",
+      "name": "CMS Developer",
+      "category": "development",
+      "description": "WordPress, headless CMS, content modeling, theme development, and CMS migration",
+      "emoji": "🌐",
+      "version": "1.0.0"
+    },
+    {
       "id": "code-reviewer",
       "name": "Code Reviewer",
       "category": "development",
       "description": "Constructive code reviews focused on correctness, security, maintainability, and performance",
       "emoji": "👁️",
+      "version": "1.0.0"
+    },
+    {
+      "id": "communications-strategist",
+      "name": "Communications Strategist",
+      "category": "communications",
+      "description": "Crisis communication, internal comms, stakeholder messaging, PR coordination, and media relations",
+      "emoji": "📢",
+      "version": "1.0.0"
+    },
+    {
+      "id": "community-manager",
+      "name": "Community Manager",
+      "category": "operations",
+      "description": "Community health metrics, moderation guidelines, engagement campaigns, and member retention",
+      "emoji": "🤝",
       "version": "1.0.0"
     },
     {
@@ -107,11 +163,59 @@
       "version": "1.0.0"
     },
     {
+      "id": "compliance-officer",
+      "name": "Compliance Officer",
+      "category": "operations",
+      "description": "Risk assessment, audit trails, regulatory mapping, internal controls, and SOC2/ISO preparation",
+      "emoji": "⚖️",
+      "version": "1.0.0"
+    },
+    {
       "id": "content-creator",
       "name": "Content Creator",
       "category": "marketing",
       "description": "Text creation, social media content, blog articles, marketing copy",
       "emoji": "✍️",
+      "version": "1.0.0"
+    },
+    {
+      "id": "contract-specialist",
+      "name": "Contract Specialist",
+      "category": "operations",
+      "description": "NDA drafting, SLA negotiation, vendor agreements, IP protection, and contract review",
+      "emoji": "📑",
+      "version": "1.0.0"
+    },
+    {
+      "id": "conversion-analyst",
+      "name": "Conversion Analyst",
+      "category": "analytics",
+      "description": "Funnel analysis, A/B test evaluation, heatmap interpretation, and conversion rate optimization",
+      "emoji": "📈",
+      "version": "1.0.0"
+    },
+    {
+      "id": "corporate-training-designer",
+      "name": "Corporate Training Designer",
+      "category": "hr",
+      "description": "Learning program design, onboarding frameworks, skill assessments, and workshop facilitation",
+      "emoji": "🎓",
+      "version": "1.0.0"
+    },
+    {
+      "id": "course-designer",
+      "name": "Course Designer",
+      "category": "education",
+      "description": "Curriculum structure, learning objectives, assessment design, e-learning content, and certification programs",
+      "emoji": "📚",
+      "version": "1.0.0"
+    },
+    {
+      "id": "customer-success-manager",
+      "name": "Customer Success Manager",
+      "category": "operations",
+      "description": "Churn prevention, health scoring, renewal strategy, user adoption, and customer onboarding",
+      "emoji": "🌟",
       "version": "1.0.0"
     },
     {
@@ -147,6 +251,22 @@
       "version": "1.0.0"
     },
     {
+      "id": "demand-generation-specialist",
+      "name": "Demand Generation Specialist",
+      "category": "marketing",
+      "description": "Lead magnets, funnel design, MQL/SQL optimization, nurture campaigns, and attribution modeling",
+      "emoji": "🎯",
+      "version": "1.0.0"
+    },
+    {
+      "id": "design-system-manager",
+      "name": "Design System Manager",
+      "category": "creative",
+      "description": "Component documentation, design tokens, cross-team adoption, and Figma/Storybook governance",
+      "emoji": "🎨",
+      "version": "1.0.0"
+    },
+    {
       "id": "developer-advocate",
       "name": "Developer Advocate",
       "category": "marketing",
@@ -176,6 +296,14 @@
       "category": "operations",
       "description": "Professional emails, business letters, and correspondence in German and English, formal and informal",
       "emoji": "✉️",
+      "version": "1.0.0"
+    },
+    {
+      "id": "event-manager",
+      "name": "Event Manager",
+      "category": "operations",
+      "description": "Conference and webinar planning, speaker coordination, attendee engagement, and event logistics",
+      "emoji": "🎪",
       "version": "1.0.0"
     },
     {
@@ -235,6 +363,14 @@
       "version": "1.0.0"
     },
     {
+      "id": "hr-strategist",
+      "name": "HR Strategist",
+      "category": "hr",
+      "description": "Employee retention, compensation planning, performance management frameworks, and organizational culture",
+      "emoji": "🏢",
+      "version": "1.0.0"
+    },
+    {
       "id": "image-prompt-engineer",
       "name": "Image Prompt Engineer",
       "category": "creative",
@@ -267,6 +403,22 @@
       "version": "1.0.0"
     },
     {
+      "id": "investor-relations-manager",
+      "name": "Investor Relations Manager",
+      "category": "communications",
+      "description": "Investor updates, pitch decks, financial narratives, funding round preparation, and shareholder communications",
+      "emoji": "💎",
+      "version": "1.0.0"
+    },
+    {
+      "id": "knowledge-manager",
+      "name": "Knowledge Manager",
+      "category": "education",
+      "description": "Documentation strategy, knowledge base architecture, information findability, and wiki structure",
+      "emoji": "🗂️",
+      "version": "1.0.0"
+    },
+    {
       "id": "legal-advisor",
       "name": "Legal Advisor",
       "category": "operations",
@@ -283,6 +435,14 @@
       "version": "1.0.0"
     },
     {
+      "id": "market-research-analyst",
+      "name": "Market Research Analyst",
+      "category": "product",
+      "description": "Survey design, quantitative analysis, market sizing, customer segmentation, and conjoint analysis",
+      "emoji": "📊",
+      "version": "1.0.0"
+    },
+    {
       "id": "mcp-developer",
       "name": "MCP Developer",
       "category": "development",
@@ -296,6 +456,14 @@
       "category": "operations",
       "description": "Structured meeting protocols, transcript processing, action items, and decision tracking",
       "emoji": "📋",
+      "version": "1.0.0"
+    },
+    {
+      "id": "mobile-developer",
+      "name": "Mobile Developer",
+      "category": "development",
+      "description": "iOS and Android development, React Native, Flutter, responsive mobile UX, and app store deployment",
+      "emoji": "📱",
       "version": "1.0.0"
     },
     {
@@ -320,6 +488,14 @@
       "category": "sales",
       "description": "Signal-based outbound prospecting, ICP definition, multi-channel sequences, and personalized outreach",
       "emoji": "📞",
+      "version": "1.0.0"
+    },
+    {
+      "id": "partnership-manager",
+      "name": "Partnership Manager",
+      "category": "sales",
+      "description": "Channel strategy, partner onboarding, co-marketing, ecosystem development, and referral programs",
+      "emoji": "🤝",
       "version": "1.0.0"
     },
     {
@@ -379,11 +555,27 @@
       "version": "1.0.0"
     },
     {
+      "id": "qa-strategist",
+      "name": "QA Strategist",
+      "category": "development",
+      "description": "Test strategy, coverage mapping, regression planning, bug triage, and quality gate design",
+      "emoji": "🧪",
+      "version": "1.0.0"
+    },
+    {
       "id": "rapid-prototyper",
       "name": "Rapid Prototyper",
       "category": "development",
       "description": "Ultra-fast MVP development, hypothesis validation, and prototype-to-production transition planning",
       "emoji": "⚡",
+      "version": "1.0.0"
+    },
+    {
+      "id": "recruitment-specialist",
+      "name": "Recruitment Specialist",
+      "category": "hr",
+      "description": "Job descriptions, candidate evaluation, interview frameworks, hiring pipelines, and employer branding",
+      "emoji": "👥",
       "version": "1.0.0"
     },
     {
@@ -408,6 +600,14 @@
       "category": "sales",
       "description": "Sales rep development, pipeline review facilitation, call coaching, and forecast discipline",
       "emoji": "🏆",
+      "version": "1.0.0"
+    },
+    {
+      "id": "sales-engineer",
+      "name": "Sales Engineer",
+      "category": "sales",
+      "description": "Technical demos, proof-of-concept design, solution architecture for prospects, and RFI/RFP responses",
+      "emoji": "🔧",
       "version": "1.0.0"
     },
     {
@@ -472,6 +672,14 @@
       "category": "development",
       "description": "Site reliability engineering: SLOs, error budgets, observability, toil reduction, and incident readiness",
       "emoji": "🛡️",
+      "version": "1.0.0"
+    },
+    {
+      "id": "supply-chain-analyst",
+      "name": "Supply Chain Analyst",
+      "category": "analytics",
+      "description": "Inventory optimization, logistics analysis, demand forecasting, and supplier performance tracking",
+      "emoji": "🔗",
       "version": "1.0.0"
     },
     {
@@ -552,6 +760,14 @@
       "category": "research",
       "description": "User research methods, usability testing, persona development, jobs-to-be-done, journey mapping, and insight synthesis",
       "emoji": "🧪",
+      "version": "1.0.0"
+    },
+    {
+      "id": "video-optimization-specialist",
+      "name": "Video Optimization Specialist",
+      "category": "marketing",
+      "description": "YouTube SEO, thumbnail strategy, retention analysis, video distribution, and content repurposing",
+      "emoji": "🎥",
       "version": "1.0.0"
     },
     {

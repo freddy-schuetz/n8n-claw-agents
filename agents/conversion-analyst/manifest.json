@@ -1,0 +1,10 @@
+{
+  "id": "conversion-analyst",
+  "name": "Conversion Analyst",
+  "version": "1.0.0",
+  "category": "analytics",
+  "description": "Funnel analysis, A/B test evaluation, heatmap interpretation, and conversion rate optimization",
+  "emoji": "📈",
+  "author": "freddy-schuetz",
+  "license": "MIT"
+}

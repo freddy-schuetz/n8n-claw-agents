@@ -1,0 +1,10 @@
+{
+  "id": "academic-researcher",
+  "name": "Academic Researcher",
+  "version": "1.0.0",
+  "category": "research",
+  "description": "Literature review, citation management, research methodology, and peer review preparation",
+  "emoji": "🎓",
+  "author": "freddy-schuetz",
+  "license": "MIT"
+}

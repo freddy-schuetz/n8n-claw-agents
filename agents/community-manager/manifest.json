@@ -1,0 +1,10 @@
+{
+  "id": "community-manager",
+  "name": "Community Manager",
+  "version": "1.0.0",
+  "category": "operations",
+  "description": "Community health metrics, moderation guidelines, engagement campaigns, and member retention",
+  "emoji": "🤝",
+  "author": "freddy-schuetz",
+  "license": "MIT"
+}

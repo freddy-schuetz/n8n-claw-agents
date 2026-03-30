@@ -1,0 +1,10 @@
+{
+  "id": "design-system-manager",
+  "name": "Design System Manager",
+  "version": "1.0.0",
+  "category": "creative",
+  "description": "Component documentation, design tokens, cross-team adoption, and Figma/Storybook governance",
+  "emoji": "🎨",
+  "author": "freddy-schuetz",
+  "license": "MIT"
+}

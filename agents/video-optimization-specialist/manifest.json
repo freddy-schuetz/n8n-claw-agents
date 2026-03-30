@@ -1,0 +1,16 @@
+{
+  "id": "video-optimization-specialist",
+  "name": "Video Optimization Specialist",
+  "version": "1.0.0",
+  "category": "marketing",
+  "description": "YouTube SEO, thumbnail strategy, retention analysis, video distribution, and content repurposing",
+  "emoji": "🎥",
+  "author": "freddy-schuetz",
+  "license": "MIT",
+  "based_on": {
+    "source": "agency-agents",
+    "url": "https://github.com/msitarzewski/agency-agents",
+    "original_prompt": "marketing/marketing-video-optimization-specialist.md",
+    "license": "MIT"
+  }
+}

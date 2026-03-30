@@ -1,0 +1,10 @@
+{
+  "id": "hr-strategist",
+  "name": "HR Strategist",
+  "version": "1.0.0",
+  "category": "hr",
+  "description": "Employee retention, compensation planning, performance management frameworks, and organizational culture",
+  "emoji": "🏢",
+  "author": "freddy-schuetz",
+  "license": "MIT"
+}

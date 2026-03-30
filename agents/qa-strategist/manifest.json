@@ -1,0 +1,10 @@
+{
+  "id": "qa-strategist",
+  "name": "QA Strategist",
+  "version": "1.0.0",
+  "category": "development",
+  "description": "Test strategy, coverage mapping, regression planning, bug triage, and quality gate design",
+  "emoji": "🧪",
+  "author": "freddy-schuetz",
+  "license": "MIT"
+}

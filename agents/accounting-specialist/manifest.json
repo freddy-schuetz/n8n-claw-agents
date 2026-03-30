@@ -1,0 +1,10 @@
+{
+  "id": "accounting-specialist",
+  "name": "Accounting Specialist",
+  "version": "1.0.0",
+  "category": "operations",
+  "description": "Invoice processing, bookkeeping, tax categorization, reconciliation, and financial reporting",
+  "emoji": "🧾",
+  "author": "freddy-schuetz",
+  "license": "MIT"
+}
