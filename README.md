@@ -22,6 +22,13 @@ Expert agent personas for [n8n-claw](https://github.com/freddy-schuetz/n8n-claw)
 | Supply Chain Analyst | Inventory optimization, logistics analysis, demand forecasting, and supplier performance tracking | Inventory management, logistics planning, demand forecasting | — | [agency-agents](https://github.com/msitarzewski/agency-agents) |
 | [Workflow Optimizer](agents/workflow-optimizer/) | Process analysis, bottleneck identification, automation opportunities, and workflow efficiency improvements | Process bottlenecks, automation opportunities, efficiency audits | — | [agency-agents](https://github.com/msitarzewski/agency-agents/blob/main/testing/testing-workflow-optimizer.md) |
 
+### Communications (2)
+
+| Agent | Description | When to Use | Skills | Source |
+|-------|-------------|-------------|--------|--------|
+| Communications Strategist | Crisis communication, internal comms, stakeholder messaging, PR coordination, and media relations | Crisis response, internal announcements, press releases | — | [@freddy-schuetz](https://github.com/freddy-schuetz) |
+| Investor Relations Manager | Investor updates, pitch decks, financial narratives, funding round preparation, and shareholder communications | Fundraising, investor updates, pitch preparation | — | [@freddy-schuetz](https://github.com/freddy-schuetz) |
+
 ### Creative (8)
 
 | Agent | Description | When to Use | Skills | Source |
@@ -64,6 +71,21 @@ Expert agent personas for [n8n-claw](https://github.com/freddy-schuetz/n8n-claw)
 | [SRE](agents/sre/) | Site reliability engineering: SLOs, error budgets, observability, toil reduction, and incident readiness | Production reliability, toil reduction, capacity planning | IP Geolocation | [agency-agents](https://github.com/msitarzewski/agency-agents/blob/main/engineering/engineering-sre.md) |
 | [Technical Writer](agents/technical-writer/) | Developer documentation, API references, README files, tutorials, and technical guides | API docs, README files, tutorials, technical guides | GitHub, Wikipedia, PDF Tools +2 more | [agency-agents](https://github.com/msitarzewski/agency-agents/blob/main/engineering/engineering-technical-writer.md) |
 | [Workflow Architect](agents/workflow-architect/) | n8n workflow design, process-to-automation mapping, node selection, and workflow architecture planning | Process-to-automation mapping, workflow blueprints, node selection | — | [@freddy-schuetz](https://github.com/freddy-schuetz) |
+
+### Education (2)
+
+| Agent | Description | When to Use | Skills | Source |
+|-------|-------------|-------------|--------|--------|
+| Course Designer | Curriculum structure, learning objectives, assessment design, e-learning content, and certification programs | Online courses, workshops, certification programs | — | [@freddy-schuetz](https://github.com/freddy-schuetz) |
+| Knowledge Manager | Documentation strategy, knowledge base architecture, information findability, and wiki structure | Knowledge base setup, documentation audits, wiki planning | — | [@freddy-schuetz](https://github.com/freddy-schuetz) |
+
+### HR (3)
+
+| Agent | Description | When to Use | Skills | Source |
+|-------|-------------|-------------|--------|--------|
+| Corporate Training Designer | Learning program design, onboarding frameworks, skill assessments, and workshop facilitation | Training programs, onboarding design, skill development | — | [agency-agents](https://github.com/msitarzewski/agency-agents) |
+| HR Strategist | Employee retention, compensation planning, performance management frameworks, and organizational culture | Retention strategy, comp planning, performance reviews | — | [@freddy-schuetz](https://github.com/freddy-schuetz) |
+| Recruitment Specialist | Job descriptions, candidate evaluation, interview frameworks, hiring pipelines, and employer branding | Hiring process, job posts, interview prep | — | [agency-agents](https://github.com/msitarzewski/agency-agents) |
 
 ### Marketing (16)
 
@@ -140,28 +162,6 @@ Expert agent personas for [n8n-claw](https://github.com/freddy-schuetz/n8n-claw)
 | [Sales Coach](agents/sales-coach/) | Sales rep development, pipeline review facilitation, call coaching, and forecast discipline | Rep development, call coaching, pipeline reviews | — | [agency-agents](https://github.com/msitarzewski/agency-agents/blob/main/sales/sales-coach.md) |
 | Sales Engineer | Technical demos, proof-of-concept design, solution architecture for prospects, and RFI/RFP responses | Technical sales support, POC design, demo preparation | — | [agency-agents](https://github.com/msitarzewski/agency-agents) |
 | [Sales Strategist](agents/sales-strategist/) | B2B/B2C sales strategy, lead qualification, pipeline management, objection handling, and deal closing frameworks | Sales strategy, lead qualification, deal closing frameworks | NocoDB CRM | [agency-agents](https://github.com/msitarzewski/agency-agents/blob/main/sales/sales-deal-strategist.md) |
-
-### HR (3)
-
-| Agent | Description | When to Use | Skills | Source |
-|-------|-------------|-------------|--------|--------|
-| Corporate Training Designer | Learning program design, onboarding frameworks, skill assessments, and workshop facilitation | Training programs, onboarding design, skill development | — | [agency-agents](https://github.com/msitarzewski/agency-agents) |
-| HR Strategist | Employee retention, compensation planning, performance management frameworks, and organizational culture | Retention strategy, comp planning, performance reviews | — | [@freddy-schuetz](https://github.com/freddy-schuetz) |
-| Recruitment Specialist | Job descriptions, candidate evaluation, interview frameworks, hiring pipelines, and employer branding | Hiring process, job posts, interview prep | — | [agency-agents](https://github.com/msitarzewski/agency-agents) |
-
-### Communications (2)
-
-| Agent | Description | When to Use | Skills | Source |
-|-------|-------------|-------------|--------|--------|
-| Communications Strategist | Crisis communication, internal comms, stakeholder messaging, PR coordination, and media relations | Crisis response, internal announcements, press releases | — | [@freddy-schuetz](https://github.com/freddy-schuetz) |
-| Investor Relations Manager | Investor updates, pitch decks, financial narratives, funding round preparation, and shareholder communications | Fundraising, investor updates, pitch preparation | — | [@freddy-schuetz](https://github.com/freddy-schuetz) |
-
-### Education (2)
-
-| Agent | Description | When to Use | Skills | Source |
-|-------|-------------|-------------|--------|--------|
-| Course Designer | Curriculum structure, learning objectives, assessment design, e-learning content, and certification programs | Online courses, workshops, certification programs | — | [@freddy-schuetz](https://github.com/freddy-schuetz) |
-| Knowledge Manager | Documentation strategy, knowledge base architecture, information findability, and wiki structure | Knowledge base setup, documentation audits, wiki planning | — | [@freddy-schuetz](https://github.com/freddy-schuetz) |
 
 ---
 
