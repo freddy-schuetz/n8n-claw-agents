@@ -477,7 +477,7 @@
     {
       "id": "nutrition-advisor",
       "name": "Nutrition Advisor",
-      "category": "operations",
+      "category": "leisure",
       "description": "Nutrition analysis, meal planning, dietary guidance, food product evaluation, and recipe suggestions",
       "emoji": "🥗",
       "version": "1.0.0"
@@ -493,7 +493,7 @@
     {
       "id": "outdoor-planner",
       "name": "Outdoor Planner",
-      "category": "operations",
+      "category": "leisure",
       "description": "Hiking, cycling, and trail route planning with GPX tracks, elevation profiles, POI discovery, and multi-day tour logistics",
       "emoji": "🥾",
       "version": "1.0.0"
@@ -725,7 +725,7 @@
     {
       "id": "travel-planner",
       "name": "Travel Planner",
-      "category": "operations",
+      "category": "leisure",
       "description": "Trip planning, itinerary building, transport connections, weather-aware scheduling, and travel logistics",
       "emoji": "✈️",
       "version": "1.0.0"

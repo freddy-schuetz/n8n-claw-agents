@@ -4,7 +4,7 @@ Expert agent personas for [n8n-claw](https://github.com/freddy-schuetz/n8n-claw)
 
 ---
 
-## Available Agents (100)
+## Available Agents (101)
 
 | | Category | Agents | Focus |
 |---|---|:---:|---|
@@ -14,8 +14,9 @@ Expert agent personas for [n8n-claw](https://github.com/freddy-schuetz/n8n-claw)
 | 💻 | [Development](#-development-25) | 25 | Backend, frontend, DevOps, security, QA |
 | 📚 | [Education](#-education-2) | 2 | Courses, knowledge management |
 | 👥 | [HR](#-hr-3) | 3 | Recruiting, training, retention |
+| 🏕️ | [Leisure](#%EF%B8%8F-leisure-3) | 3 | Outdoor, travel, nutrition, hobbies |
 | 📣 | [Marketing](#-marketing-16) | 16 | SEO, social media, content, growth |
-| ⚙️ | [Operations](#-operations-16) | 16 | Support, legal, events, project management |
+| ⚙️ | [Operations](#%EF%B8%8F-operations-14) | 14 | Support, legal, events, project management |
 | 🎯 | [Product](#-product-6) | 6 | Strategy, prioritization, research |
 | 🔬 | [Research](#-research-5) | 5 | Market, academic, competitive, UX |
 | 💹 | [Sales](#-sales-8) | 8 | Outbound, coaching, proposals, partnerships |
@@ -158,7 +159,20 @@ Expert agent personas for [n8n-claw](https://github.com/freddy-schuetz/n8n-claw)
 </details>
 
 <details>
-<summary><strong>⚙️ Operations (16)</strong></summary>
+<summary><strong>🏕️ Leisure (3)</strong></summary>
+
+&nbsp;
+
+| Agent | Description | When to Use | Skills | Source |
+|-------|-------------|-------------|--------|--------|
+| [Nutrition Advisor](agents/nutrition-advisor/) | Nutrition analysis, meal planning, dietary guidance, food product evaluation, and recipe suggestions | Meal planning, dietary guidance, food product analysis | OpenFoodFacts, Recipes | [@freddy-schuetz](https://github.com/freddy-schuetz) |
+| [Outdoor Planner](agents/outdoor-planner/) | Hiking, cycling, and trail route planning with GPX tracks, elevation profiles, POI discovery, and multi-day tour logistics | Route planning, elevation profiles, POI discovery, tour briefings | Route Planner (OpenRouteService) | [@freddy-schuetz](https://github.com/freddy-schuetz) |
+| [Travel Planner](agents/travel-planner/) | Trip planning, itinerary building, transport connections, weather-aware scheduling, and travel logistics | Trip planning, route optimization, weather-aware scheduling | Deutsche Bahn, Wiener Linien, Weather, Public Holidays +5 more | [@freddy-schuetz](https://github.com/freddy-schuetz) |
+
+</details>
+
+<details>
+<summary><strong>⚙️ Operations (14)</strong></summary>
 
 &nbsp;
 
@@ -175,11 +189,9 @@ Expert agent personas for [n8n-claw](https://github.com/freddy-schuetz/n8n-claw)
 | [Executive Summarizer](agents/executive-summarizer/) | Condensing long texts, reports, and meetings into concise executive briefings | Meeting summaries, report condensation, executive briefings | Vexa Meetings, Nextcloud Files, PDF Tools | [agency-agents](https://github.com/msitarzewski/agency-agents/blob/main/support/support-executive-summary-generator.md) |
 | [Legal Advisor](agents/legal-advisor/) | GDPR/DSGVO compliance, privacy policies, terms of service, and EU regulatory guidance | GDPR compliance, privacy policies, terms of service | PDF Tools | [agency-agents](https://github.com/msitarzewski/agency-agents/blob/main/support/support-legal-compliance-checker.md) |
 | [Meeting Assistant](agents/meeting-assistant/) | Structured meeting protocols, transcript processing, action items, and decision tracking | Meeting protocols, transcript processing, action items | Vexa Meetings, CalDAV, Google Calendar +2 more | [@freddy-schuetz](https://github.com/freddy-schuetz) |
-| [Nutrition Advisor](agents/nutrition-advisor/) | Nutrition analysis, meal planning, dietary guidance, food product evaluation, and recipe suggestions | Meal planning, dietary guidance, food product analysis | OpenFoodFacts, Recipes | [@freddy-schuetz](https://github.com/freddy-schuetz) |
 | [Project Manager](agents/project-manager/) | Project planning, WBS, risk management, RACI matrices, stakeholder communication, and status reporting | Project planning, WBS, risk management, status reporting | CalDAV, Google Calendar, Notion, Todoist +4 more | [agency-agents](https://github.com/msitarzewski/agency-agents/blob/main/project-management/project-management-senior-project-manager.md) |
 | [Support Responder](agents/support-responder/) | First-response support ticket drafting, issue triage, knowledge base article creation, and escalation handling | Ticket drafts, issue triage, knowledge base articles | Email IMAP/SMTP, Gmail, NocoDB CRM | [agency-agents](https://github.com/msitarzewski/agency-agents/blob/main/support/support-support-responder.md) |
 | [Translator](agents/translator/) | Context-aware translations between German, English, and French with tone adaptation | German/English/French translations, tone adaptation | DeepL Translate, Dictionary | [@freddy-schuetz](https://github.com/freddy-schuetz) |
-| [Travel Planner](agents/travel-planner/) | Trip planning, itinerary building, transport connections, weather-aware scheduling, and travel logistics | Trip planning, route optimization, weather-aware scheduling | Deutsche Bahn, Wiener Linien, Weather, Public Holidays +5 more | [@freddy-schuetz](https://github.com/freddy-schuetz) |
 
 </details>
 
