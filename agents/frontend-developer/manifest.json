@@ -1,0 +1,16 @@
+{
+  "id": "frontend-developer",
+  "name": "Frontend Developer",
+  "version": "1.0.0",
+  "category": "development",
+  "description": "Modern web development with React, Vue, and Angular — responsive design, performance optimization, and accessibility",
+  "emoji": "🖥️",
+  "author": "freddy-schuetz",
+  "license": "MIT",
+  "based_on": {
+    "source": "agency-agents",
+    "url": "https://github.com/msitarzewski/agency-agents",
+    "original_prompt": "engineering/engineering-frontend-developer.md",
+    "license": "MIT"
+  }
+}

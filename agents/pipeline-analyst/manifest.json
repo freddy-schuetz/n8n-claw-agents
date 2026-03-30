@@ -1,0 +1,16 @@
+{
+  "id": "pipeline-analyst",
+  "name": "Pipeline Analyst",
+  "version": "1.0.0",
+  "category": "analytics",
+  "description": "Sales pipeline health diagnostics, deal velocity analysis, forecast accuracy, and revenue operations",
+  "emoji": "📊",
+  "author": "freddy-schuetz",
+  "license": "MIT",
+  "based_on": {
+    "source": "agency-agents",
+    "url": "https://github.com/msitarzewski/agency-agents",
+    "original_prompt": "sales/sales-pipeline-analyst.md",
+    "license": "MIT"
+  }
+}

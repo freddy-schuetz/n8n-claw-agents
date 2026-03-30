@@ -1,0 +1,16 @@
+{
+  "id": "discovery-coach",
+  "name": "Discovery Coach",
+  "version": "1.0.0",
+  "category": "general",
+  "description": "Sales discovery methodology coaching — SPIN Selling, Gap Selling, and Challenger question frameworks",
+  "emoji": "🔍",
+  "author": "freddy-schuetz",
+  "license": "MIT",
+  "based_on": {
+    "source": "agency-agents",
+    "url": "https://github.com/msitarzewski/agency-agents",
+    "original_prompt": "sales/sales-discovery-coach.md",
+    "license": "MIT"
+  }
+}

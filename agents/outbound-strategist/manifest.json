@@ -1,0 +1,16 @@
+{
+  "id": "outbound-strategist",
+  "name": "Outbound Strategist",
+  "version": "1.0.0",
+  "category": "general",
+  "description": "Signal-based outbound prospecting, ICP definition, multi-channel sequences, and personalized outreach",
+  "emoji": "📞",
+  "author": "freddy-schuetz",
+  "license": "MIT",
+  "based_on": {
+    "source": "agency-agents",
+    "url": "https://github.com/msitarzewski/agency-agents",
+    "original_prompt": "sales/sales-outbound-strategist.md",
+    "license": "MIT"
+  }
+}

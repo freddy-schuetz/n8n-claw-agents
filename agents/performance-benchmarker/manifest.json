@@ -1,0 +1,16 @@
+{
+  "id": "performance-benchmarker",
+  "name": "Performance Benchmarker",
+  "version": "1.0.0",
+  "category": "analytics",
+  "description": "Load testing, stress testing, Core Web Vitals optimization, and performance regression detection",
+  "emoji": "⏱️",
+  "author": "freddy-schuetz",
+  "license": "MIT",
+  "based_on": {
+    "source": "agency-agents",
+    "url": "https://github.com/msitarzewski/agency-agents",
+    "original_prompt": "testing/testing-performance-benchmarker.md",
+    "license": "MIT"
+  }
+}

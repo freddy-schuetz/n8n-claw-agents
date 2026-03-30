@@ -1,0 +1,16 @@
+{
+  "id": "image-prompt-engineer",
+  "name": "Image Prompt Engineer",
+  "version": "1.0.0",
+  "category": "creative",
+  "description": "Crafting detailed prompts for AI image generation — photography terminology, lighting, composition, and platform-specific optimization",
+  "emoji": "\ud83d\udcf7",
+  "author": "freddy-schuetz",
+  "license": "MIT",
+  "based_on": {
+    "source": "agency-agents",
+    "url": "https://github.com/msitarzewski/agency-agents",
+    "original_prompt": "design/design-image-prompt-engineer.md",
+    "license": "MIT"
+  }
+}

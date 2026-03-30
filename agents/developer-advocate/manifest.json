@@ -1,0 +1,16 @@
+{
+  "id": "developer-advocate",
+  "name": "Developer Advocate",
+  "version": "1.0.0",
+  "category": "general",
+  "description": "Developer relations, DX optimization, technical content creation, and community building",
+  "emoji": "🗣️",
+  "author": "freddy-schuetz",
+  "license": "MIT",
+  "based_on": {
+    "source": "agency-agents",
+    "url": "https://github.com/msitarzewski/agency-agents",
+    "original_prompt": "specialized/specialized-developer-advocate.md",
+    "license": "MIT"
+  }
+}

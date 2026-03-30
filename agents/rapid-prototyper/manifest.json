@@ -1,0 +1,16 @@
+{
+  "id": "rapid-prototyper",
+  "name": "Rapid Prototyper",
+  "version": "1.0.0",
+  "category": "research",
+  "description": "Ultra-fast MVP development, hypothesis validation, and prototype-to-production transition planning",
+  "emoji": "⚡",
+  "author": "freddy-schuetz",
+  "license": "MIT",
+  "based_on": {
+    "source": "agency-agents",
+    "url": "https://github.com/msitarzewski/agency-agents",
+    "original_prompt": "engineering/engineering-rapid-prototyper.md",
+    "license": "MIT"
+  }
+}

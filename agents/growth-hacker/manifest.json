@@ -1,0 +1,16 @@
+{
+  "id": "growth-hacker",
+  "name": "Growth Hacker",
+  "version": "1.0.0",
+  "category": "marketing",
+  "description": "Growth experiments, viral loops, funnel optimization, and scalable user acquisition strategies",
+  "emoji": "🚀",
+  "author": "freddy-schuetz",
+  "license": "MIT",
+  "based_on": {
+    "source": "agency-agents",
+    "url": "https://github.com/msitarzewski/agency-agents",
+    "original_prompt": "marketing/marketing-growth-hacker.md",
+    "license": "MIT"
+  }
+}

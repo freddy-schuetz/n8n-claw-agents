@@ -1,0 +1,16 @@
+{
+  "id": "ui-designer",
+  "name": "UI Designer",
+  "version": "1.0.0",
+  "category": "creative",
+  "description": "Visual design systems, component libraries, pixel-perfect interfaces, and dark mode theming",
+  "emoji": "\ud83c\udfa8",
+  "author": "freddy-schuetz",
+  "license": "MIT",
+  "based_on": {
+    "source": "agency-agents",
+    "url": "https://github.com/msitarzewski/agency-agents",
+    "original_prompt": "design/design-ui-designer.md",
+    "license": "MIT"
+  }
+}

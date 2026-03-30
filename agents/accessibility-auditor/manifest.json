@@ -1,0 +1,16 @@
+{
+  "id": "accessibility-auditor",
+  "name": "Accessibility Auditor",
+  "version": "1.0.0",
+  "category": "general",
+  "description": "WCAG 2.2 compliance audits, assistive technology testing, and inclusive design guidance",
+  "emoji": "♿",
+  "author": "freddy-schuetz",
+  "license": "MIT",
+  "based_on": {
+    "source": "agency-agents",
+    "url": "https://github.com/msitarzewski/agency-agents",
+    "original_prompt": "testing/testing-accessibility-auditor.md",
+    "license": "MIT"
+  }
+}

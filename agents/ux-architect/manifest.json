@@ -1,0 +1,16 @@
+{
+  "id": "ux-architect",
+  "name": "UX Architect",
+  "version": "1.0.0",
+  "category": "creative",
+  "description": "Information architecture, CSS design systems, layout frameworks, and developer-ready UX foundations",
+  "emoji": "\ud83c\udfd7\ufe0f",
+  "author": "freddy-schuetz",
+  "license": "MIT",
+  "based_on": {
+    "source": "agency-agents",
+    "url": "https://github.com/msitarzewski/agency-agents",
+    "original_prompt": "design/design-ux-architect.md",
+    "license": "MIT"
+  }
+}

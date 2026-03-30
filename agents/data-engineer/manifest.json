@@ -1,0 +1,16 @@
+{
+  "id": "data-engineer",
+  "name": "Data Engineer",
+  "version": "1.0.0",
+  "category": "development",
+  "description": "ETL/ELT pipelines, data lakehouse architecture, data quality, and streaming systems",
+  "emoji": "🔧",
+  "author": "freddy-schuetz",
+  "license": "MIT",
+  "based_on": {
+    "source": "agency-agents",
+    "url": "https://github.com/msitarzewski/agency-agents",
+    "original_prompt": "engineering/engineering-data-engineer.md",
+    "license": "MIT"
+  }
+}

@@ -3,12 +3,21 @@
   "format_version": 1,
   "agents": [
     {
-      "id": "ads-performance-analyst",
-      "name": "Ads Performance Analyst",
+      "id": "accessibility-auditor",
+      "name": "Accessibility Auditor",
       "version": "1.0.0",
-      "category": "analytics",
-      "description": "Multi-platform ads performance reporting and analysis: Google Ads, Meta, LinkedIn, TikTok — ROAS, CPA, CTR trends, anomaly detection, and actionable optimization recommendations",
-      "emoji": "📈",
+      "category": "general",
+      "description": "WCAG 2.2 compliance audits, assistive technology testing, and inclusive design guidance",
+      "emoji": "♿",
+      "author": "freddy-schuetz"
+    },
+    {
+      "id": "account-strategist",
+      "name": "Account Strategist",
+      "version": "1.0.0",
+      "category": "general",
+      "description": "Post-sale account expansion, stakeholder mapping, QBR facilitation, and net revenue retention",
+      "emoji": "🤝",
       "author": "freddy-schuetz"
     },
     {
@@ -21,12 +30,30 @@
       "author": "freddy-schuetz"
     },
     {
+      "id": "ads-performance-analyst",
+      "name": "Ads Performance Analyst",
+      "version": "1.0.0",
+      "category": "analytics",
+      "description": "Multi-platform ads performance reporting and analysis: Google Ads, Meta, LinkedIn, TikTok — ROAS, CPA, CTR trends, anomaly detection, and actionable optimization recommendations",
+      "emoji": "📈",
+      "author": "freddy-schuetz"
+    },
+    {
       "id": "api-designer",
       "name": "API Designer",
       "version": "1.0.0",
       "category": "development",
       "description": "REST and GraphQL API design, OpenAPI specifications, versioning, authentication patterns, and developer experience",
       "emoji": "🔌",
+      "author": "freddy-schuetz"
+    },
+    {
+      "id": "api-tester",
+      "name": "API Tester",
+      "version": "1.0.0",
+      "category": "research",
+      "description": "API testing and validation — functional, performance, security, and contract testing for REST and GraphQL",
+      "emoji": "🧪",
       "author": "freddy-schuetz"
     },
     {
@@ -70,7 +97,7 @@
       "name": "Content Creator",
       "version": "1.0.0",
       "category": "marketing",
-      "description": "Copywriting, social media content, blog articles, marketing copy, creative writing",
+      "description": "Text creation, social media content, blog articles, marketing copy",
       "emoji": "✍️",
       "author": "freddy-schuetz"
     },
@@ -93,6 +120,33 @@
       "author": "freddy-schuetz"
     },
     {
+      "id": "data-engineer",
+      "name": "Data Engineer",
+      "version": "1.0.0",
+      "category": "development",
+      "description": "ETL/ELT pipelines, data lakehouse architecture, data quality, and streaming systems",
+      "emoji": "🔧",
+      "author": "freddy-schuetz"
+    },
+    {
+      "id": "database-optimizer",
+      "name": "Database Optimizer",
+      "version": "1.0.0",
+      "category": "development",
+      "description": "Schema design, query optimization, indexing strategies, and performance tuning for PostgreSQL and MySQL",
+      "emoji": "🗄️",
+      "author": "freddy-schuetz"
+    },
+    {
+      "id": "developer-advocate",
+      "name": "Developer Advocate",
+      "version": "1.0.0",
+      "category": "general",
+      "description": "Developer relations, DX optimization, technical content creation, and community building",
+      "emoji": "🗣️",
+      "author": "freddy-schuetz"
+    },
+    {
       "id": "devops-engineer",
       "name": "DevOps Engineer",
       "version": "1.0.0",
@@ -102,11 +156,20 @@
       "author": "freddy-schuetz"
     },
     {
+      "id": "discovery-coach",
+      "name": "Discovery Coach",
+      "version": "1.0.0",
+      "category": "general",
+      "description": "Sales discovery methodology coaching — SPIN Selling, Gap Selling, and Challenger question frameworks",
+      "emoji": "🔍",
+      "author": "freddy-schuetz"
+    },
+    {
       "id": "email-writer",
       "name": "Email Writer",
       "version": "1.0.0",
       "category": "general",
-      "description": "Professional emails, business letters, and correspondence in German and English",
+      "description": "Professional emails, business letters, and correspondence in German and English, formal and informal",
       "emoji": "✉️",
       "author": "freddy-schuetz"
     },
@@ -115,8 +178,17 @@
       "name": "Executive Summarizer",
       "version": "1.0.0",
       "category": "general",
-      "description": "Condensing long texts, reports, and meetings into concise executive briefings",
+      "description": "Condensing long texts, reports, and meetings into concise executive briefings and summaries",
       "emoji": "📝",
+      "author": "freddy-schuetz"
+    },
+    {
+      "id": "feedback-synthesizer",
+      "name": "Feedback Synthesizer",
+      "version": "1.0.0",
+      "category": "general",
+      "description": "User feedback analysis across channels — theme extraction, sentiment scoring, and actionable product insights",
+      "emoji": "🧩",
       "author": "freddy-schuetz"
     },
     {
@@ -129,12 +201,75 @@
       "author": "freddy-schuetz"
     },
     {
+      "id": "frontend-developer",
+      "name": "Frontend Developer",
+      "version": "1.0.0",
+      "category": "development",
+      "description": "Modern web development with React, Vue, and Angular — responsive design, performance optimization, and accessibility",
+      "emoji": "🖥️",
+      "author": "freddy-schuetz"
+    },
+    {
+      "id": "git-workflow-master",
+      "name": "Git Workflow Master",
+      "version": "1.0.0",
+      "category": "development",
+      "description": "Git branching strategies, conventional commits, rebase workflows, and CI-friendly branch management",
+      "emoji": "🌿",
+      "author": "freddy-schuetz"
+    },
+    {
+      "id": "growth-hacker",
+      "name": "Growth Hacker",
+      "version": "1.0.0",
+      "category": "marketing",
+      "description": "Growth experiments, viral loops, funnel optimization, and scalable user acquisition strategies",
+      "emoji": "🚀",
+      "author": "freddy-schuetz"
+    },
+    {
+      "id": "image-prompt-engineer",
+      "name": "Image Prompt Engineer",
+      "version": "1.0.0",
+      "category": "creative",
+      "description": "Crafting detailed prompts for AI image generation — photography terminology, lighting, composition, and platform-specific optimization",
+      "emoji": "📷",
+      "author": "freddy-schuetz"
+    },
+    {
+      "id": "incident-commander",
+      "name": "Incident Commander",
+      "version": "1.0.0",
+      "category": "research",
+      "description": "Production incident management, severity classification, blameless post-mortems, and on-call process design",
+      "emoji": "🚨",
+      "author": "freddy-schuetz"
+    },
+    {
+      "id": "instagram-curator",
+      "name": "Instagram Curator",
+      "version": "1.0.0",
+      "category": "marketing",
+      "description": "Instagram visual strategy, grid aesthetics, multi-format content (Reels, Stories, Posts), and social commerce",
+      "emoji": "📸",
+      "author": "freddy-schuetz"
+    },
+    {
       "id": "legal-advisor",
       "name": "Legal Advisor",
       "version": "1.0.0",
       "category": "general",
       "description": "GDPR/DSGVO compliance, privacy policies, terms of service, and EU regulatory guidance",
       "emoji": "⚖️",
+      "author": "freddy-schuetz"
+    },
+    {
+      "id": "linkedin-creator",
+      "name": "LinkedIn Creator",
+      "version": "1.0.0",
+      "category": "marketing",
+      "description": "LinkedIn content strategy, thought leadership posts, personal branding, and professional engagement",
+      "emoji": "💼",
       "author": "freddy-schuetz"
     },
     {
@@ -147,12 +282,30 @@
       "author": "freddy-schuetz"
     },
     {
-      "id": "linkedin-creator",
-      "name": "LinkedIn Creator",
+      "id": "outbound-strategist",
+      "name": "Outbound Strategist",
       "version": "1.0.0",
-      "category": "marketing",
-      "description": "LinkedIn content strategy, thought leadership posts, personal branding, and professional engagement",
-      "emoji": "💼",
+      "category": "general",
+      "description": "Signal-based outbound prospecting, ICP definition, multi-channel sequences, and personalized outreach",
+      "emoji": "📞",
+      "author": "freddy-schuetz"
+    },
+    {
+      "id": "performance-benchmarker",
+      "name": "Performance Benchmarker",
+      "version": "1.0.0",
+      "category": "analytics",
+      "description": "Load testing, stress testing, Core Web Vitals optimization, and performance regression detection",
+      "emoji": "⏱️",
+      "author": "freddy-schuetz"
+    },
+    {
+      "id": "pipeline-analyst",
+      "name": "Pipeline Analyst",
+      "version": "1.0.0",
+      "category": "analytics",
+      "description": "Sales pipeline health diagnostics, deal velocity analysis, forecast accuracy, and revenue operations",
+      "emoji": "📊",
       "author": "freddy-schuetz"
     },
     {
@@ -192,12 +345,30 @@
       "author": "freddy-schuetz"
     },
     {
+      "id": "rapid-prototyper",
+      "name": "Rapid Prototyper",
+      "version": "1.0.0",
+      "category": "research",
+      "description": "Ultra-fast MVP development, hypothesis validation, and prototype-to-production transition planning",
+      "emoji": "⚡",
+      "author": "freddy-schuetz"
+    },
+    {
       "id": "research-expert",
       "name": "Research Expert",
       "version": "1.0.0",
       "category": "research",
-      "description": "Web research, fact-checking, source evaluation, summarizing complex topics",
+      "description": "Deep web research, fact-checking, source evaluation",
       "emoji": "🔍",
+      "author": "freddy-schuetz"
+    },
+    {
+      "id": "sales-coach",
+      "name": "Sales Coach",
+      "version": "1.0.0",
+      "category": "general",
+      "description": "Sales rep development, pipeline review facilitation, call coaching, and forecast discipline",
+      "emoji": "🏆",
       "author": "freddy-schuetz"
     },
     {
@@ -246,6 +417,24 @@
       "author": "freddy-schuetz"
     },
     {
+      "id": "sprint-prioritizer",
+      "name": "Sprint Prioritizer",
+      "version": "1.0.0",
+      "category": "general",
+      "description": "Sprint planning, backlog prioritization with RICE/MoSCoW/Kano, and team velocity optimization",
+      "emoji": "🎯",
+      "author": "freddy-schuetz"
+    },
+    {
+      "id": "sre",
+      "name": "SRE",
+      "version": "1.0.0",
+      "category": "development",
+      "description": "Site reliability engineering: SLOs, error budgets, observability, toil reduction, and incident readiness",
+      "emoji": "🛡️",
+      "author": "freddy-schuetz"
+    },
+    {
       "id": "technical-writer",
       "name": "Technical Writer",
       "version": "1.0.0",
@@ -255,11 +444,20 @@
       "author": "freddy-schuetz"
     },
     {
+      "id": "tiktok-strategist",
+      "name": "TikTok Strategist",
+      "version": "1.0.0",
+      "category": "marketing",
+      "description": "TikTok content strategy, algorithm optimization, creator partnerships, and short-form video growth",
+      "emoji": "🎵",
+      "author": "freddy-schuetz"
+    },
+    {
       "id": "translator",
       "name": "Translator",
       "version": "1.0.0",
       "category": "general",
-      "description": "Context-aware translations between German, English, and French with tone adaptation",
+      "description": "Context-aware translations between German, English, and French with tone and register adaptation",
       "emoji": "🌐",
       "author": "freddy-schuetz"
     },
@@ -270,6 +468,24 @@
       "category": "research",
       "description": "Market intelligence, emerging trend identification, competitive analysis, and technology scouting",
       "emoji": "🔭",
+      "author": "freddy-schuetz"
+    },
+    {
+      "id": "ui-designer",
+      "name": "UI Designer",
+      "version": "1.0.0",
+      "category": "creative",
+      "description": "Visual design systems, component libraries, pixel-perfect interfaces, and dark mode theming",
+      "emoji": "🎨",
+      "author": "freddy-schuetz"
+    },
+    {
+      "id": "ux-architect",
+      "name": "UX Architect",
+      "version": "1.0.0",
+      "category": "creative",
+      "description": "Information architecture, CSS design systems, layout frameworks, and developer-ready UX foundations",
+      "emoji": "🏗️",
       "author": "freddy-schuetz"
     },
     {
@@ -291,11 +507,20 @@
       "author": "freddy-schuetz"
     },
     {
+      "id": "visual-storyteller",
+      "name": "Visual Storyteller",
+      "version": "1.0.0",
+      "category": "research",
+      "description": "Visual narratives, infographic design, data visualization, and multimedia content strategy",
+      "emoji": "🎬",
+      "author": "freddy-schuetz"
+    },
+    {
       "id": "workflow-optimizer",
       "name": "Workflow Optimizer",
       "version": "1.0.0",
       "category": "analytics",
-      "description": "Process analysis, bottleneck identification, automation opportunities, and efficiency improvements",
+      "description": "Process analysis, bottleneck identification, automation opportunities, and workflow efficiency improvements",
       "emoji": "⚡",
       "author": "freddy-schuetz"
     }

@@ -1,0 +1,16 @@
+{
+  "id": "instagram-curator",
+  "name": "Instagram Curator",
+  "version": "1.0.0",
+  "category": "marketing",
+  "description": "Instagram visual strategy, grid aesthetics, multi-format content (Reels, Stories, Posts), and social commerce",
+  "emoji": "📸",
+  "author": "freddy-schuetz",
+  "license": "MIT",
+  "based_on": {
+    "source": "agency-agents",
+    "url": "https://github.com/msitarzewski/agency-agents",
+    "original_prompt": "marketing/marketing-instagram-curator.md",
+    "license": "MIT"
+  }
+}

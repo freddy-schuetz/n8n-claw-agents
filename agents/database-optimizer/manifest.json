@@ -1,0 +1,16 @@
+{
+  "id": "database-optimizer",
+  "name": "Database Optimizer",
+  "version": "1.0.0",
+  "category": "development",
+  "description": "Schema design, query optimization, indexing strategies, and performance tuning for PostgreSQL and MySQL",
+  "emoji": "🗄️",
+  "author": "freddy-schuetz",
+  "license": "MIT",
+  "based_on": {
+    "source": "agency-agents",
+    "url": "https://github.com/msitarzewski/agency-agents",
+    "original_prompt": "engineering/engineering-database-optimizer.md",
+    "license": "MIT"
+  }
+}

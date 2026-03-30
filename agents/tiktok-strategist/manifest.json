@@ -1,0 +1,16 @@
+{
+  "id": "tiktok-strategist",
+  "name": "TikTok Strategist",
+  "version": "1.0.0",
+  "category": "marketing",
+  "description": "TikTok content strategy, algorithm optimization, creator partnerships, and short-form video growth",
+  "emoji": "🎵",
+  "author": "freddy-schuetz",
+  "license": "MIT",
+  "based_on": {
+    "source": "agency-agents",
+    "url": "https://github.com/msitarzewski/agency-agents",
+    "original_prompt": "marketing/marketing-tiktok-strategist.md",
+    "license": "MIT"
+  }
+}
