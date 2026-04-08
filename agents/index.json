@@ -355,6 +355,14 @@
       "version": "1.0.0"
     },
     {
+      "id": "google-media-prompter",
+      "name": "Google Media Prompter",
+      "category": "creative",
+      "description": "Crafting optimal prompts for Google Nano Banana Pro (Gemini 3 Pro Image) and Veo 3.1 — image generation, image editing, text-to-video, and image-to-video",
+      "emoji": "🎨",
+      "version": "1.0.0"
+    },
+    {
       "id": "growth-hacker",
       "name": "Growth Hacker",
       "category": "marketing",

@@ -1,0 +1,10 @@
+{
+  "id": "google-media-prompter",
+  "name": "Google Media Prompter",
+  "version": "1.0.0",
+  "category": "creative",
+  "description": "Crafting optimal prompts for Google Nano Banana Pro (Gemini 3 Pro Image) and Veo 3.1 — image generation, image editing, text-to-video, and image-to-video",
+  "emoji": "\ud83c\udfa8",
+  "author": "freddy-schuetz",
+  "license": "MIT"
+}
