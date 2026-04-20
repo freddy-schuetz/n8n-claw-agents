@@ -1,0 +1,10 @@
+{
+  "id": "atlassian-operator",
+  "name": "Atlassian Operator",
+  "version": "1.0.0",
+  "category": "operations",
+  "description": "Issue tracking and wiki management across Jira Cloud and Confluence Cloud: backlog triage, JQL/CQL search, issue transitions, linking, commenting, page creation and curation. Tool-aware for the shared Atlassian API token.",
+  "emoji": "🧭",
+  "author": "freddy-schuetz",
+  "license": "MIT"
+}

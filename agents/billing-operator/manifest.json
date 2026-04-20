@@ -1,0 +1,10 @@
+{
+  "id": "billing-operator",
+  "name": "Billing Operator",
+  "version": "1.0.0",
+  "category": "operations",
+  "description": "Day-to-day billing and payment operations on Stripe: customers, payments, subscriptions, invoices, refunds, disputes, payment links. Tool-aware for Stripe's object IDs, test/live mode, and search syntax.",
+  "emoji": "💳",
+  "author": "freddy-schuetz",
+  "license": "MIT"
+}

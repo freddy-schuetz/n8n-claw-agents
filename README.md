@@ -4,7 +4,7 @@ Expert agent personas for [n8n-claw](https://github.com/freddy-schuetz/n8n-claw)
 
 ---
 
-## Available Agents (103)
+## Available Agents (106)
 
 | | Category | Agents | Focus |
 |---|---|:---:|---|
@@ -16,10 +16,10 @@ Expert agent personas for [n8n-claw](https://github.com/freddy-schuetz/n8n-claw)
 | 👥 | [HR](#-hr-3) | 3 | Recruiting, training, retention |
 | 🏕️ | [Leisure](#%EF%B8%8F-leisure-3) | 3 | Outdoor, travel, nutrition, hobbies |
 | 📣 | [Marketing](#-marketing-17) | 17 | SEO, social media, content, growth |
-| ⚙️ | [Operations](#%EF%B8%8F-operations-15) | 15 | Support, legal, events, project management |
+| ⚙️ | [Operations](#%EF%B8%8F-operations-17) | 17 | Support, legal, events, project management, billing, issue tracking |
 | 🎯 | [Product](#-product-6) | 6 | Strategy, prioritization, research |
 | 🔬 | [Research](#-research-5) | 5 | Market, academic, competitive, UX |
-| 💹 | [Sales](#-sales-8) | 8 | Outbound, coaching, proposals, partnerships |
+| 💹 | [Sales](#-sales-9) | 9 | Outbound, coaching, proposals, partnerships, CRM operations |
 
 **How to read the table:** *Description* explains what the agent specializes in. *When to Use* gives practical scenarios for delegation. *Skills* shows which [MCP Skills](https://github.com/freddy-schuetz/n8n-claw-templates) pair well with the agent — installing them gives the sub-agent additional tools to work with ("—" = no specific skill pairing). *Source* links to the original prompt if the persona was adapted from [agency-agents](https://github.com/msitarzewski/agency-agents), or shows the author for original agents.
 
@@ -173,13 +173,15 @@ Expert agent personas for [n8n-claw](https://github.com/freddy-schuetz/n8n-claw)
 </details>
 
 <details>
-<summary><strong>⚙️ Operations (15)</strong></summary>
+<summary><strong>⚙️ Operations (17)</strong></summary>
 
 &nbsp;
 
 | Agent | Description | When to Use | Skills | Source |
 |-------|-------------|-------------|--------|--------|
 | Accounting Specialist | Invoice processing, bookkeeping, tax categorization, reconciliation, and financial reporting | Expense processing, tax prep, bookkeeping | — | [@freddy-schuetz](https://github.com/freddy-schuetz) |
+| [Atlassian Operator](agents/atlassian-operator/) | Jira and Confluence operations: issue tracking, JQL/CQL search, transitions, linking, page creation and curation. Tool-aware for the shared Atlassian API token | Backlog triage, issue lifecycle, wiki curation, cross-linking Jira & Confluence | Jira, Confluence | [@freddy-schuetz](https://github.com/freddy-schuetz) |
+| [Billing Operator](agents/billing-operator/) | Stripe billing operations: customers, payments, subscriptions, invoices, refunds, disputes, payment links. Tool-aware for Stripe IDs, test/live mode, and search syntax | Refunds, subscription cancels, invoice lookups, customer billing questions | Stripe | [@freddy-schuetz](https://github.com/freddy-schuetz) |
 | Community Manager | Community health metrics, moderation guidelines, engagement campaigns, and member retention | Community building, moderation, engagement strategy | — | [@freddy-schuetz](https://github.com/freddy-schuetz) |
 | Compliance Officer | Risk assessment, audit trails, regulatory mapping, internal controls, and SOC2/ISO preparation | Compliance audits, risk registers, regulatory requirements | — | [agency-agents](https://github.com/msitarzewski/agency-agents) |
 | Contract Specialist | NDA drafting, SLA negotiation, vendor agreements, IP protection, and contract review | Contract review, SLA setup, vendor agreements | — | [@freddy-schuetz](https://github.com/freddy-schuetz) |
@@ -229,13 +231,14 @@ Expert agent personas for [n8n-claw](https://github.com/freddy-schuetz/n8n-claw)
 </details>
 
 <details>
-<summary><strong>💹 Sales (8)</strong></summary>
+<summary><strong>💹 Sales (9)</strong></summary>
 
 &nbsp;
 
 | Agent | Description | When to Use | Skills | Source |
 |-------|-------------|-------------|--------|--------|
 | [Account Strategist](agents/account-strategist/) | Post-sale account expansion, stakeholder mapping, QBR facilitation, and net revenue retention | Account expansion, stakeholder mapping, QBR facilitation | NocoDB CRM | [agency-agents](https://github.com/msitarzewski/agency-agents/blob/main/sales/sales-account-strategist.md) |
+| [CRM Operator](agents/crm-operator/) | Day-to-day CRM operations across HubSpot, Salesforce, and Zoho: contacts, leads, deals, accounts, cases, tasks. Tool-aware for all three platforms' query languages and object models | Contact/lead/deal CRUD, pipeline moves, dedup checks, CRM-specific query authoring | HubSpot, Salesforce, Zoho CRM | [@freddy-schuetz](https://github.com/freddy-schuetz) |
 | [Discovery Coach](agents/discovery-coach/) | Sales discovery methodology coaching — SPIN Selling, Gap Selling, and Challenger question frameworks | Sales discovery coaching, SPIN/Gap/Challenger frameworks | — | [agency-agents](https://github.com/msitarzewski/agency-agents/blob/main/sales/sales-discovery-coach.md) |
 | [Outbound Strategist](agents/outbound-strategist/) | Signal-based outbound prospecting, ICP definition, multi-channel sequences, and personalized outreach | ICP definition, cold outreach sequences, prospecting | Email IMAP/SMTP, Gmail, NocoDB CRM | [agency-agents](https://github.com/msitarzewski/agency-agents/blob/main/sales/sales-outbound-strategist.md) |
 | Partnership Manager | Channel strategy, partner onboarding, co-marketing, ecosystem development, and referral programs | Partner programs, channel sales, co-marketing | — | [@freddy-schuetz](https://github.com/freddy-schuetz) |

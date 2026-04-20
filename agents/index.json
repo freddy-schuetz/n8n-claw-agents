@@ -83,6 +83,14 @@
       "version": "1.0.0"
     },
     {
+      "id": "atlassian-operator",
+      "name": "Atlassian Operator",
+      "category": "operations",
+      "description": "Jira and Confluence operations: issue tracking, JQL/CQL search, transitions, linking, page creation and curation. Tool-aware for the shared Atlassian API token",
+      "emoji": "🧭",
+      "version": "1.0.0"
+    },
+    {
       "id": "automation-governance-architect",
       "name": "Automation Governance Architect",
       "category": "development",
@@ -104,6 +112,14 @@
       "category": "product",
       "description": "Choice architecture, nudge design, conversion psychology, habit formation, and ethical persuasion",
       "emoji": "🧠",
+      "version": "1.0.0"
+    },
+    {
+      "id": "billing-operator",
+      "name": "Billing Operator",
+      "category": "operations",
+      "description": "Stripe billing operations: customers, payments, subscriptions, invoices, refunds, disputes, payment links. Tool-aware for Stripe IDs, test/live mode, and search syntax",
+      "emoji": "💳",
       "version": "1.0.0"
     },
     {
@@ -208,6 +224,14 @@
       "category": "education",
       "description": "Curriculum structure, learning objectives, assessment design, e-learning content, and certification programs",
       "emoji": "📚",
+      "version": "1.0.0"
+    },
+    {
+      "id": "crm-operator",
+      "name": "CRM Operator",
+      "category": "sales",
+      "description": "Day-to-day CRM operations across HubSpot, Salesforce, and Zoho: contacts, leads, deals, accounts, cases, tasks. Tool-aware for all three platforms' query languages and object models",
+      "emoji": "📇",
       "version": "1.0.0"
     },
     {

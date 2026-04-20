@@ -1,0 +1,10 @@
+{
+  "id": "crm-operator",
+  "name": "CRM Operator",
+  "version": "1.0.0",
+  "category": "sales",
+  "description": "Day-to-day CRM operations across HubSpot, Salesforce, and Zoho: contacts, leads, deals, accounts, cases, tasks. Tool-aware for all three platforms' query languages and object models.",
+  "emoji": "📇",
+  "author": "freddy-schuetz",
+  "license": "MIT"
+}
