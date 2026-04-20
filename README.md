@@ -4,7 +4,7 @@ Expert agent personas for [n8n-claw](https://github.com/freddy-schuetz/n8n-claw)
 
 ---
 
-## Available Agents (101)
+## Available Agents (103)
 
 | | Category | Agents | Focus |
 |---|---|:---:|---|
@@ -15,8 +15,8 @@ Expert agent personas for [n8n-claw](https://github.com/freddy-schuetz/n8n-claw)
 | 📚 | [Education](#-education-2) | 2 | Courses, knowledge management |
 | 👥 | [HR](#-hr-3) | 3 | Recruiting, training, retention |
 | 🏕️ | [Leisure](#%EF%B8%8F-leisure-3) | 3 | Outdoor, travel, nutrition, hobbies |
-| 📣 | [Marketing](#-marketing-16) | 16 | SEO, social media, content, growth |
-| ⚙️ | [Operations](#%EF%B8%8F-operations-14) | 14 | Support, legal, events, project management |
+| 📣 | [Marketing](#-marketing-17) | 17 | SEO, social media, content, growth |
+| ⚙️ | [Operations](#%EF%B8%8F-operations-15) | 15 | Support, legal, events, project management |
 | 🎯 | [Product](#-product-6) | 6 | Strategy, prioritization, research |
 | 🔬 | [Research](#-research-5) | 5 | Market, academic, competitive, UX |
 | 💹 | [Sales](#-sales-8) | 8 | Outbound, coaching, proposals, partnerships |
@@ -133,7 +133,7 @@ Expert agent personas for [n8n-claw](https://github.com/freddy-schuetz/n8n-claw)
 </details>
 
 <details>
-<summary><strong>📣 Marketing (16)</strong></summary>
+<summary><strong>📣 Marketing (17)</strong></summary>
 
 &nbsp;
 
@@ -155,6 +155,7 @@ Expert agent personas for [n8n-claw](https://github.com/freddy-schuetz/n8n-claw)
 | [TikTok Strategist](agents/tiktok-strategist/) | TikTok content strategy, algorithm optimization, creator partnerships, and short-form video growth | Short-form video, algorithm optimization, creator partnerships | — | [agency-agents](https://github.com/msitarzewski/agency-agents/blob/main/marketing/marketing-tiktok-strategist.md) |
 | [Twitter Strategist](agents/twitter-strategist/) | Twitter/X content strategy, thread writing, engagement tactics, trend riding, and audience growth | Thread writing, trend riding, audience growth | News (NewsAPI), Hacker News | [agency-agents](https://github.com/msitarzewski/agency-agents/blob/main/prompts/marketing/marketing-twitter-strategist.md) |
 | Video Optimization Specialist | YouTube SEO, thumbnail strategy, retention analysis, video distribution, and content repurposing | YouTube growth, video SEO, content repurposing | — | [agency-agents](https://github.com/msitarzewski/agency-agents) |
+| [WordPress Editor](agents/wordpress-editor/) | Editorial workflow on WordPress: drafting, publishing, scheduling posts and pages, comment moderation, media library, categories and tags | Blog publishing, comment moderation, WP media uploads | WordPress | [@freddy-schuetz](https://github.com/freddy-schuetz) |
 
 </details>
 
@@ -172,7 +173,7 @@ Expert agent personas for [n8n-claw](https://github.com/freddy-schuetz/n8n-claw)
 </details>
 
 <details>
-<summary><strong>⚙️ Operations (14)</strong></summary>
+<summary><strong>⚙️ Operations (15)</strong></summary>
 
 &nbsp;
 
@@ -190,6 +191,7 @@ Expert agent personas for [n8n-claw](https://github.com/freddy-schuetz/n8n-claw)
 | [Legal Advisor](agents/legal-advisor/) | GDPR/DSGVO compliance, privacy policies, terms of service, and EU regulatory guidance | GDPR compliance, privacy policies, terms of service | PDF Tools | [agency-agents](https://github.com/msitarzewski/agency-agents/blob/main/support/support-legal-compliance-checker.md) |
 | [Meeting Assistant](agents/meeting-assistant/) | Structured meeting protocols, transcript processing, action items, and decision tracking | Meeting protocols, transcript processing, action items | Vexa Meetings, CalDAV, Google Calendar +2 more | [@freddy-schuetz](https://github.com/freddy-schuetz) |
 | [Project Manager](agents/project-manager/) | Project planning, WBS, risk management, RACI matrices, stakeholder communication, and status reporting | Project planning, WBS, risk management, status reporting | CalDAV, Google Calendar, Notion, Todoist +4 more | [agency-agents](https://github.com/msitarzewski/agency-agents/blob/main/project-management/project-management-senior-project-manager.md) |
+| [Shop Operator](agents/shop-operator/) | Day-to-day online shop operations: product catalog maintenance, order fulfillment, inventory adjustments, customer care. Tool-aware for Shopify (GraphQL Admin API) | Product catalog updates, order fulfillment, inventory adjustments, customer care | Shopify | [@freddy-schuetz](https://github.com/freddy-schuetz) |
 | [Support Responder](agents/support-responder/) | First-response support ticket drafting, issue triage, knowledge base article creation, and escalation handling | Ticket drafts, issue triage, knowledge base articles | Email IMAP/SMTP, Gmail, NocoDB CRM | [agency-agents](https://github.com/msitarzewski/agency-agents/blob/main/support/support-support-responder.md) |
 | [Translator](agents/translator/) | Context-aware translations between German, English, and French with tone adaptation | German/English/French translations, tone adaptation | DeepL Translate, Dictionary | [@freddy-schuetz](https://github.com/freddy-schuetz) |
 

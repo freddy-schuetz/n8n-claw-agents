@@ -659,6 +659,14 @@
       "version": "1.0.0"
     },
     {
+      "id": "shop-operator",
+      "name": "Shop Operator",
+      "category": "operations",
+      "description": "Day-to-day online shop operations: product catalog maintenance, order fulfillment, inventory adjustments, customer care. Tool-aware for Shopify (GraphQL Admin API)",
+      "emoji": "🛍️",
+      "version": "1.0.0"
+    },
+    {
       "id": "social-media-strategist",
       "name": "Social Media Strategist",
       "category": "marketing",
@@ -800,6 +808,14 @@
       "category": "creative",
       "description": "Visual narratives, infographic design, data visualization, and multimedia content strategy",
       "emoji": "🎬",
+      "version": "1.0.0"
+    },
+    {
+      "id": "wordpress-editor",
+      "name": "WordPress Editor",
+      "category": "marketing",
+      "description": "Editorial workflow on WordPress: drafting, publishing, scheduling posts and pages, comment moderation, media library, categories and tags",
+      "emoji": "📝",
       "version": "1.0.0"
     },
     {

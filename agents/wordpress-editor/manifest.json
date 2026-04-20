@@ -1,0 +1,10 @@
+{
+  "id": "wordpress-editor",
+  "name": "WordPress Editor",
+  "version": "1.0.0",
+  "category": "marketing",
+  "description": "Editorial workflow on WordPress: drafting, publishing, scheduling posts and pages, comment moderation, media library, categories and tags",
+  "emoji": "📝",
+  "author": "freddy-schuetz",
+  "license": "MIT"
+}

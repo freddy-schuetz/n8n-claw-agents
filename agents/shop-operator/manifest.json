@@ -1,0 +1,10 @@
+{
+  "id": "shop-operator",
+  "name": "Shop Operator",
+  "version": "1.0.0",
+  "category": "operations",
+  "description": "Day-to-day online shop operations: product catalog maintenance, order fulfillment, inventory adjustments, customer care. Tool-aware for Shopify (GraphQL Admin API)",
+  "emoji": "🛍️",
+  "author": "freddy-schuetz",
+  "license": "MIT"
+}
